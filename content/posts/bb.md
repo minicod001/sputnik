@@ -19,9 +19,17 @@ Eu sou Economista, com um mestrado academico pela GV, e possuo tambem algumas ce
 
 Atualmente, eu sou consultor pela FIPE (a FIPE, vcs devem conhecer de nome, é uma fundacao de pesquisa ligada à Universidade de Sao Paulo e presta consultoria para os setores público e privado). Na FIPE, eu sou também responsavel, no departamento educacional, por prestar tutoria on-line para alguns cursos à distancia que eles oferecem (Matemática Financeira, Renda Fixa, e Financas Corporativas, Derivativos, etc.), corrigir study-cases, montar banco de questoes, e outras atividades mais operacionais.
 
-Antes de ir para a FIPE, trabalhei por 6 anos na holding do Itau-Unibanco nas areas de valicao de modelos de risco (credito, mercado), teste de estress e planejamento de capital.
+Antes de ir para a FIPE, trabalhei por 6 anos na holding do Itau-Unibanco na area de risco e capital.
 
-Moro em Frankfurt com a minha familia desde meados de 2016. Sou casado e tenho um filho pequeno.
+* Eu comecei na valicao de modelos de risco, onde fui responsável pela validacao de modelos de risco de credito, validei tbm curvas de mercado, e calculadoras usadas na avaliacao de politicas de credito e preco.  
+
+* Depois eu fui convidado para juntar o time teste de estresse (o time era pequeno, mas eramos responsaveis pelo teste de estresse para todas as carteiras da Holding), i.e.  
+
+* Depois eu voluntariamente fui para a Superintendicia de Planejamento de Capital, onde eu seria responsavel pelo monitoramento dos principais riscos do banco (credito, mercado, e operacional), definir targets internos de performance paras as unidades de negócio e outros atender outras demandas ad-hoc do Conselho.
+
+Em meados de 2016, eu encerrei a minha carreira no Itau e me mudei com a minha esposa para Frankfurt. Minha esposa é alema, meio brasileira/meio alema... trabalhou por 5 anos na Bavaria, e nesse periodo visitei ela algumas vezes e sempre tivemos a ideia de criar a nossa familia aqui na Alemanha. 
+O Itau nao tem unidade na Alemanha. Eu sempre fui aberto com esse meu desejo de ir para fora. Entao chegou um ponto que achamos melhor em ir e fazer acontecer do que ficar esperando uma transferencia dos sonhos.
+Eu quis Frankfurt por causa do mercado financeiro, e por que temos familia aqui na regiao tbm.    
 
 Ano passado, fiquei sabendo por um amigo que aqui tinha uma _branch_ (ou como ele disse uma _Zweigniederlassung_) do Banco do Brasil. 
 
@@ -112,6 +120,24 @@ CET1/Capital Nivel 1 (~PRE): 97MM
 No Capital Tier 2/etc.
 
 Capital ratios: 26%
+
+RWA Total: 370MM
+RWA Credit: 350MM (maior parte para empresas)
+RWA Mercado (FX): 9MM
+RWA Operacional: 14MM
+
+Exposure Total: 608MM
+Claims on Central Bank: 230MM
+Loans: 330MM
+Off-Balance Sheets: 15MM
+
+Exposure by Country:
+Brasil: 100MM
+Austria: 74MM
+Luxembourg: 45MM
+Portugal: 43MM
+Credito Domestic: 382
+
 
 {{< color blue >}}O objetivo de um gerenciamento de risco, é o reconhecimento que os recursos (own funds) sao escassos, e por isso é necessario otimizar o seu uso, selecionando as melhores oportunidades de negocio, visando a maximizar a criacao de valor.
 {{< /color >}}
