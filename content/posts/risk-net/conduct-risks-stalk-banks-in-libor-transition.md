@@ -2,7 +2,7 @@
 title: 'Conduct risks stalk banks in Libor transition'
 date: 2020-06-22T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'regulation', 'conduct risk', 'libor']
+tags: ['2020', '202006', 'regulation', 'conduct risk', 'Libor']
 description: 'As replacement rate concerns become more pressing, firms fear Libor lawsuits and regulatory wrath'
 ---
 

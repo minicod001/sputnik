@@ -2,7 +2,7 @@
 title: 'Libor webinar playback: traders hope for liquidity catalysts'
 date: 2020-06-25T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'investments']
+tags: ['2020', '202006', 'investments', 'webinar', 'Libor']
 description: 'Panellists from JP Morgan, Morgan Stanley and Tradeweb discuss "make or break" year for transition'
 ---
 

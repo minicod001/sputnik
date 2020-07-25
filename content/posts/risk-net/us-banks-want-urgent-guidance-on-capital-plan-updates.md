@@ -2,7 +2,7 @@
 title: 'US banks want urgent guidance on capital plan updates'
 date: 2020-07-07T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'regulation', 'capital plan', 'CCAR']
+tags: ['2020', '202007', 'regulation', 'capital plan', 'CCAR', 'banks']
 description: 'Call for Fed to provide Covid scenarios by start of September, not in fourth quarter'
 ---
 

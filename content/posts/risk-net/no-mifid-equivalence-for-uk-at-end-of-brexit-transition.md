@@ -2,7 +2,7 @@
 title: 'No Mifid equivalence for UK at end of Brexit transition'
 date: 2020-07-21T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'investments']
+tags: ['2020', '202007', 'investments', 'MIFID']
 description: 'Footnote reveals assessment delay beyond January 2021, piling pressure on London-based firms'
 ---
 

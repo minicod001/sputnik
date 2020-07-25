@@ -2,7 +2,7 @@
 title: 'Higher margins would aid clearing stability – Ice Clear chief'
 date: 2020-01-24 JuneT12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202001', 'regulation']
+tags: ['2020', '202001', 'regulation', 'CCP', 'initial margin']
 description: 'Using volatility floors to aid “higher margins in peacetime” would have to be globally applied policy, warns Serafini'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Mifid’s pre-trade transparency is ‘a failed experiment’'
 date: 2020-07-14T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'investments']
+tags: ['2020', '202007', 'investments', 'MIFID']
 description: 'Market participants say benefits of altering pre-trade transparency rules are small'
 ---
 

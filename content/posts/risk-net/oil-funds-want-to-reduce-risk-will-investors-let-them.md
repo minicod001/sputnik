@@ -2,7 +2,7 @@
 title: 'Oil funds want to reduce risk. Will investors let them?'
 date: 2020-07-08T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'investments']
+tags: ['2020', '202007', 'investments', 'oil', 'commodities']
 description: 'Despite posting big losses, funds that track front-month contracts remain popular with investors'
 ---
 

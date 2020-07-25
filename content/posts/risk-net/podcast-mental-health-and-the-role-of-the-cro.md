@@ -2,7 +2,7 @@
 title: 'Podcast: mental health and the role of the CRO'
 date: 2020-07-20T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'commodities']
+tags: ['2020', '202007', 'commodities', 'podcast']
 description: 'Energy company CRO discusses how her firm is dealing with workplace stress as lockdowns ease'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Esma calls for full audits of cloud providers'
 date: 2020-06-10T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'operational risk']
+tags: ['2020', '202006', 'operational risk', 'ESMA']
 description: 'Regulator says firms must negotiate access rights to books and premises of providers'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The scientists probing the human mind for an investing edge'
 date: 2020-07-02T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'investments']
+tags: ['2020', '202007', 'investments', 'behavioural finance']
 description: 'Recent advances in behavioural finance could give rise to new quant models and strategies'
 ---
 

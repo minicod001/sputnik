@@ -2,7 +2,7 @@
 title: 'Volatility scaling flops in credit alt risk premia'
 date: 2020-07-02T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'investments']
+tags: ['2020', '202007', 'investments', 'volatility']
 description: 'Strategies miss recovery from March plunge, prompting rethink on speed of mean reversion'
 ---
 
@@ -28,8 +28,7 @@ The iTraxx Europe Main credit index widened by 96 basis points in 18 business da
 
 “This was an extreme move wider followed immediately by an extreme move tighter,” White said.
 
-<div style="display:block; max-width:50%; max-height:60%" class="infogram-embed" data-id="d67f2049-818d-417e-b62b-c873f87de414" data-type="interactive"></div>
-{{< infogram >}}
+{{< embedded "d67f2049-818d-417e-b62b-c873f87de414" >}}
 
 A measure of rolling 30-day volatility in the iTraxx Crossover return index from Markit was around 3% at the end of 2019 but rose to 30% at the end of March before falling back to around 13% now, said Anthony Morris, head of quantitative strategies at Nomura. A strategy scaled to a target volatility of 10% using such a metric could have levered three-times going into the selloff.
 

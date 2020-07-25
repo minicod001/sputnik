@@ -2,7 +2,7 @@
 title: 'Lagging futures market holding back swaptions RFR transition'
 date: 2020-06-24T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'investments']
+tags: ['2020', '202006', 'investments', 'RFR', 'swaption']
 description: '“Elephant in the room” is hindering non-linear growth and swap market liquidity, say rates traders'
 ---
 

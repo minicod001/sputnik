@@ -2,7 +2,7 @@
 title: '‘Improving’ Mifid post-trade transparency splits markets'
 date: 2020-07-09T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'regulation', 'Mifid']
+tags: ['2020', '202007', 'regulation', 'MIFID']
 description: 'Mooted changes to Europe’s transparency regime are dividing markets – largely along functional lines'
 ---
 

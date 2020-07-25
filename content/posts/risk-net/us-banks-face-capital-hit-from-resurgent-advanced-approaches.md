@@ -2,7 +2,7 @@
 title: 'US banks face capital hit from resurgent advanced approaches'
 date: 2020-06-24T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'regulation']
+tags: ['2020', '202006', 'regulation', 'banks', 'capital', 'IRB', 'XVA']
 description: 'Banks pushed onto internal models wrestle with procyclical capital charges'
 ---
 

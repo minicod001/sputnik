@@ -2,7 +2,7 @@
 title: 'Concerns roil prop clearing waters in wake of ABN losses'
 date: 2020-07-13T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'regulation', 'losses']
+tags: ['2020', '202007', 'regulation', 'losses', 'CCP']
 description: 'State-backed lender insists few clients have defected – but sharks circle, post-Parplus'
 ---
 

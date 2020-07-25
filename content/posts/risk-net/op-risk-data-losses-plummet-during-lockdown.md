@@ -8,8 +8,6 @@ description: 'Also: Wirecard dominates legacy losses; SEB hit with massive AML f
 
 > _Also: Wirecard dominates legacy losses; SEB hit with massive AML fine. Data by ORX News_
 
-Jump to [In focus: H1 op risk losses](#infocus) | [Spotlight: SEC fines Telegram](#spotlight)
-
 June’s largest loss was Nordic lender SEB’s [$107 million](https://www.fi.se/en/published/press-releases/2020/seb-receives-an-administrative-fine-for-deficiencies-in-its-work-to-combat-anti-money-laundering-in-the-baltics/) fine for anti-money laundering failures in its Baltic operations. This is the second fine for AML failure handed out this year by the Swedish regulator (FI), which in March fined Swedbank $397 million for similar failures in its Baltic subsidiaries.
 
 FI’s investigation covered the period between 2015 and the first quarter of 2019, in which period it found the bank had insufficient governance and control of Baltic subsidiary banks with regard to AML. It identified that the bank had deficiencies in identifying and managing the risk of money laundering in respect of non-resident customers and of resident customers with non-resident owners. Nor did it identify and manage the elevated compliance and reputational risks that some of these customers imposed on the group.

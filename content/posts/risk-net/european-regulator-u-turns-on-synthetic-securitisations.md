@@ -2,7 +2,7 @@
 title: 'European regulator U-turns on synthetic securitisations'
 date: 2020-06-30T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'regulation', 'EBA', 'securitisation', 'synthetic securitisation']
+tags: ['2020', '202006', 'regulation', 'EBA', 'securitisation', 'synthetic securitisation', 'SRT']
 description: 'Deals with use-it-or-lose-it mechanism can qualify for capital relief, EBA policy expert says'
 ---
 
@@ -25,7 +25,6 @@ The ‘use-it-or-lose-it’ method involves banks accumulating a set amount of e
 Excess spread is calculated in the securitisation contract as a percentage of the total outstanding portfolio balance.
 
 ### Caught in a trap
-
 In its 2017 draft proposals, the EBA recommended that supervisors only allow a “trapped” form of excess spread to be present in [synthetic securitisations](https://www.risk.net/regulation/7562546/capital-relief-trades-make-slow-comeback-from-covid-slump) in order for those deals to qualify for SRT status.
 
 The trapped mechanism accumulates excess spread throughout the life of the transaction and is always available to cover losses, even if the spread accumulated in previous years had not been used.
@@ -45,7 +44,6 @@ For example, if excess spread is accumulated every three years at €100 a year,
 If the instrument suffers a €500 loss in year three, the investor only loses €200 and the bank gets no excess spread.
 
 ### Capital charge
-
 The EBA stated in the 2017 discussion paper that it was considering whether a separate Pillar 1 charge should be applied to SRT transactions that have excess spread mechanisms, because the mechanism could result in a lower amount of risk being transferred than the competent authority realises.
 
 Sources say the reason regulators originally opted for the trapped mechanism was because it would be easier to then apply risk-weighted assets and capital charges to the total amount of excess spread at the transaction’s inception.

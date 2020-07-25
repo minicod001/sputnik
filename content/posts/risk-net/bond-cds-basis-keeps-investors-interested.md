@@ -26,8 +26,7 @@ With the opportunity for large gains receding, the trade may have lost its appea
 
 The basis is calculated by subtracting the bond spread from the CDS spread. In the US credit markets, bonds are generally less liquid than CDS, and credit spreads have been higher, driving the persistently negative basis. In Europe, the basis is generally nearer to zero for high yield and above zero for investment grade bonds.
 
-<div style="display:block; max-width:50%; max-height:60%" class="infogram-embed" data-id="224cd41c-4d78-4e1c-a454-f2ac20c69f0b" data-type="interactive"></div>
-{{< infogram >}}
+{{< embedded "224cd41c-4d78-4e1c-a454-f2ac20c69f0b" >}}
 
 In March, bond spreads spiked as investors rushed to sell bonds, pushing prices lower and elevating yields. CDS spreads also rose due to investors seeking protection in the most liquid market they could find – but the movement eased faster than was the case for bond spreads. This caused the basis to remain wide.
 

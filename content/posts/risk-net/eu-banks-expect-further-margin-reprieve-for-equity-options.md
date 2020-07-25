@@ -2,7 +2,7 @@
 title: 'EU banks expect further margin reprieve for equity options'
 date: 2020-06-25T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'regulation', 'banks', 'derivative']
+tags: ['2020', '202006', 'regulation', 'banks', 'derivative', 'IOSCO']
 description: 'Exemptions for intra-group and equity options from non-cleared margin rules expire by January 2021'
 ---
 

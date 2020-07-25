@@ -2,7 +2,7 @@
 title: 'Clearing house power-downs raise fears among members'
 date: 2019-11-29T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2019', '201911', 'operational risk']
+tags: ['2019', '201911', 'operational risk', 'CCP']
 description: 'Banks question CCP resilience to system outages, as debate swirls over non-default losses'
 ---
 

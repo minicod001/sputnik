@@ -2,7 +2,7 @@
 title: 'EU’s Brexit clearing grab slow to lift off'
 date: 2020-07-09T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'regulation', 'Brexit']
+tags: ['2020', '202007', 'regulation', 'Brexit', 'CCP']
 description: 'Clearing members say clients aren’t transferring material volumes from LCH to Eurex rapidly'
 ---
 
@@ -27,7 +27,6 @@ But panellists from two clearing banks said clients haven’t rushed for the doo
 “We have access to all relevant venues in Europe to allow clients to move business, but in the end it is the clients themselves who decide whether or not they will be moving business,” said Robbert Booij, chief executive for European clearing at ABN Amro, also speaking at the conference. “We do see an increase in clients, if we talk about euro clearing, who want to set up an account to move business from LCH should it be required. They are not shifting positions very rapidly and that is probably also due to availability of products, currency pairs and liquidity.”
 
 ### Too sticky
-
 Panellists blamed the steep costs involved in transferring positions for making it undesirable to switch. For example, European firms may find they [take a loss](https://www.risk.net/derivatives/5311916/dislocation-policy-lch-exodus-risks-ccp-basis-blow-out) from closing their existing swaps at LCH at current market values.
 
 JP Morgan’s El-Gammal said long-dated interest rates swaps have proven relatively “sticky”, and dealers have kept those in LCH.
@@ -47,7 +46,6 @@ The disruption caused by the coronavirus pandemic in Europe has also delayed fir
 “The Covid-19 [pandemic] has made it worse [to transfer], and that is also understandable because firms are busy managing their risk, and they are not really focusing on splitting positions at the minute because that creates inefficient portfolios,” said ABN Amro’s Booij. “The result is also an increase in margin and therefore higher risk for the end-client.”
 
 ### An own goal?
-
 Booij pointed out that, if European firms are cut off from UK CCPs, then it doesn’t necessarily mean the business will move out of London.
 
 EU clearing firms could still provide clearing services to UK CCPs if they set up UK subsidiaries and onboard their European clients. However, it would be costly for European banks to offer that service due to the EU bank capital law – the Capital Requirements Regulation (CRR) – which increases the risk-weight applied to exposures to non-equivalent third-country clearing houses versus those that are in the EU or deemed equivalent.
@@ -63,7 +61,6 @@ The undesirable economics of clearing with EU banks could lead to European non-b
 “European firms would be severely impacted in the case of no equivalence,” he said. “It would actually mean European end-clients could still access European markets using UK and US banks, and I think this is a serious disruption to the level playing field that should be considered.”
 
 ### Against the clock
-
 There is now only a short amount of time before CCPs and clearing members reach the Brexit cliff edge. Although the transition period ends on December 31 this year, UK CCPs must give at least [three months’ notice](https://www.risk.net/derivatives/5904966/time-running-out-for-eu-brexit-temporary-permissions-regime) to off-board clearing members, meaning the notice must come at the end of September.
 
 “We are not deaf to the time constraints, and we plan to make our intentions known so we do not leave it to the last moment,” said Andrea Beltramello, who works in the cabinet of Valdis Dombrovskis, the European Commission executive vice-president for financial services.

@@ -2,7 +2,7 @@
 title: 'Bargain-hunting equity hedgers turn to FX'
 date: 2020-07-01T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'investments', 'FX', 'hedge']
+tags: ['2020', '202007', 'investments', 'FX', 'hedge', 'risk data']
 description: 'Currency options are cheap relative to stock index puts, but correlations are uncertain'
 ---
 
@@ -22,8 +22,7 @@ According to data from UBS, out-of-the-money S&P puts were just over four times 
 
 Aberdeen’s Athey says the price differential is due in part to the growing long-S&P equity position of many funds since March. Investors tend to use equity index puts as a hedge, and the growing long cash position has meant put buying has risen in tandem. For example, an S&P put struck at 85% of the at-the-money point on February 3 was around 29 volatility points, compared with around 37 points on June 30.
 
-<div style="display:block; max-width:50%; max-height:60%" class="infogram-embed" data-id="2efd47f0-cf90-474b-a352-821fa4e2e62e" data-type="interactive"></div>
-{{< infogram >}}
+{{< embedded "2efd47f0-cf90-474b-a352-821fa4e2e62e" >}}
 
 On the FX side, traders say systematic sellers of volatility – who contributed to historically low options prices prior to March – have returned to the market sooner than expected. That has put downward pressure on FX volatility, making it cheap compared with equity options.
 
@@ -39,15 +38,13 @@ USD/JPY correlations against the S&P hit 0.80, and 0.84 on the Nikkei in March, 
 
 Correlations on all relationships bar the AUD/USD-AS51 moved toward zero quickly after March, but investors who use FX as a hedge are taking a view on how the currencies behave during equity stress, dealers argue – not their historical, rolling performance (see figure 2).
 
-<div style="display:block; max-width:50%; max-height:60%" class="infogram-embed" data-id="9b4d73d2-6963-414e-a967-5e9ac932041f" data-type="interactive"></div>
-{{< infogram >}}
+{{< embedded "9b4d73d2-6963-414e-a967-5e9ac932041f" >}}
 
 “If you believe correlations will return and the entry point is attractive from a relative valuation perspective – that is, that FX vol is currently cheap – then the rationale for putting hedges in place still holds,” says UBS’s Boehler.
 
 Volatility on other pairs such as AUD/JPY and AUD/USD correlate well with the US index, and are also regularly cheaper than their equity equivalents (see figure 3).
 
-<div style="display:block; max-width:50%; max-height:60%" class="infogram-embed" data-id="4bbe2ebc-ea64-48c5-94b8-88e2526780d2" data-type="interactive"></div>
-{{< infogram >}}
+{{< embedded "4bbe2ebc-ea64-48c5-94b8-88e2526780d2" >}}
 
 “There is a big correlation during general risk-off events: stocks will go down, emerging markets currencies will sell off, USD/JPY will go down, so there are various trades that you can put on that may be cheaper than just downright buying the equity vol,” says Bob Diehl, head of FX derivatives trading at UniCredit.
 

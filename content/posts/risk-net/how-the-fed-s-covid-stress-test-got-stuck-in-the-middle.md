@@ -2,7 +2,7 @@
 title: 'How the Fed’s Covid stress test got stuck in the middle'
 date: 2020-07-03T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'regulation', 'stress testing', 'fed']
+tags: ['2020', '202007', 'regulation', 'stress test', 'FED',  'CCAR']
 description: 'Experts fear CCAR add-on has neither informed investors nor guided capital management'
 ---
 

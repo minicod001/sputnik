@@ -2,7 +2,7 @@
 title: 'Funds warm to Esma liquidity rules after Covid crisis'
 date: 2020-06-29T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'regulation', 'ESMA', 'liquidity', 'funds', 'stress testing']
+tags: ['2020', '202006', 'regulation', 'ESMA', 'liquidity', 'funds', 'stress test']
 description: 'Funds are embracing stress-testing, and swing pricing, after “a real liquidity crisis” in March'
 ---
 

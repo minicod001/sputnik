@@ -2,6 +2,7 @@
 title: "Small talk"
 date: 2020-07-06T16:10:22+02:00
 categories: ['bb']
+draft: True
 tags:
 ---
 

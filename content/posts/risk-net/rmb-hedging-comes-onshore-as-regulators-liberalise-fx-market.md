@@ -20,8 +20,7 @@ Foreign participation in China’s fixed income market has been growing steadily
 
 The alternative to the custodian banks is to hedge using the offshore CNH rate as a proxy. The basis between CNH and CNY fluctuates but has been elevated since the start of 2020, before it retraced in June (see figure). As of June 23, the basis was around 13 pips.
 
-<div style="display:block; max-width:50%; max-height:60%" class="infogram-embed" data-id="f9945525-4b8f-4b79-9cae-d31f17fbc9f9" data-type="interactive"></div>
-{{< infogram >}}
+{{< embedded "f9945525-4b8f-4b79-9cae-d31f17fbc9f9" >}}
 
 Lillian Tao, head of institutional client group macro sales for China at Deutsche Bank, says the basis can be enough to encourage foreigners tapping into China’s CNY-denominated bond market – especially real money investors – to turn to CNY to minimise basis risk.
 

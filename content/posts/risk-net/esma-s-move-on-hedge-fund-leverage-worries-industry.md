@@ -2,7 +2,7 @@
 title: 'Esma’s move on hedge fund leverage worries industry'
 date: 2020-06-22T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'regulation', 'ESMA']
+tags: ['2020', '202006', 'regulation', 'ESMA', 'hedge funds']
 description: 'Critics say proposed guidelines rely on patchy data and inconsistent calculations'
 ---
 

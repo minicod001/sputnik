@@ -2,7 +2,7 @@
 title: 'Data error inflated Wells Fargo’s op risk capital by $5 billion'
 date: 2020-06-03T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'operational risk']
+tags: ['2020', '202006', 'operational risk', 'AMA', 'RWA']
 description: 'Sharp fall in Q1 RWAs followed removal of duplicate data'
 ---
 
@@ -30,7 +30,7 @@ However, the frequency and severity of historical losses plays an outsized role 
 
 The Federal Reserve, Wells’ primary regulator, declined to comment. However a person familiar with the Wells Fargo issue at the Fed said he had not observed a bank restating its op RWAs in this way before.
 
-[https://infogram.com/rq7553581-wells-fargo-op-risk-1hdw2jw50d8d4l0](https://infogram.com/rq7553581-wells-fargo-op-risk-1hdw2jw50d8d4l0)
+{{< embedded "2ed658f0-4844-4e87-9582-dfb45df147ae" >}}
 
 Bank data fidelity is monitored by the Fed, and issues affecting op risk management systems, processes and data can be dealt with through supervisory actions. For example, the Fed can declare a “matter requiring attention” or “matter requiring immediate attention” following a bank examination if it unearths an issue that could undermine the safety and soundness of an institution or that represents significant noncompliance with applicable laws or regulations.
 

@@ -2,7 +2,7 @@
 title: 'Investors turn to raw data over ratings in ESG alpha hunt'
 date: 2020-07-15T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'investments']
+tags: ['2020', '202007', 'investments', 'ESG']
 description: 'Firms are using data on product returns and employee welfare to pick winners'
 ---
 

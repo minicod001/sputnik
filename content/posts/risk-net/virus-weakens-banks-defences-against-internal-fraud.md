@@ -2,7 +2,7 @@
 title: 'Virus weakens banks’ defences against internal fraud'
 date: 2020-06-01T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'commodities']
+tags: ['2020', '202006', 'commodities', 'banks', 'operational risk']
 description: 'Stressed markets and remote working leave firms vulnerable to op risks and cyber attacks'
 ---
 
