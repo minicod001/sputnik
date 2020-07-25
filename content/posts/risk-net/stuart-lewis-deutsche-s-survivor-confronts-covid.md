@@ -2,7 +2,7 @@
 title: 'Stuart Lewis, Deutsche’s survivor, confronts Covid-19'
 date: 2020-07-21T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'regulation', 'interview', 'deutsche bank']
+tags: ['2020', '202007', 'regulation', 'interview', 'Deutsche Bank']
 description: 'CRO talks loan reserves, VAR breaches, and the lessons of a lurid past'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Banks braced for mystery coronavirus add-on to CCAR'
 date: 2020-06-19T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'regulation', 'banks', 'CCAR', 'capital', 'stress testing']
+tags: ['2020', '202006', 'regulation', 'banks', 'CCAR', 'capital', 'stress test']
 description: 'Uncertainty surrounds scenario design and impact on stress capital buffer, dividends'
 ---
 

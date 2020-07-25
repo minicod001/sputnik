@@ -2,7 +2,7 @@
 title: 'Applying the scientific method to investing'
 date: 2020-07-09T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'investments', 'behavioral finance']
+tags: ['2020', '202007', 'investments', 'behavioural finance']
 description: 'The new field of experimental finance goes beyond backtesting'
 ---
 

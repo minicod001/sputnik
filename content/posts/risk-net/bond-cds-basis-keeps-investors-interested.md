@@ -2,7 +2,7 @@
 title: 'Bond-CDS basis keeps investors interested'
 date: 2020-06-26T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202006', 'investments', 'bond', 'cds', 'basis']
+tags: ['2020', '202006', 'investments', 'bond', 'CDS', 'basis']
 description: 'Difference between cash bond spreads and derivatives tightens but still offers value, dealers say'
 ---
 

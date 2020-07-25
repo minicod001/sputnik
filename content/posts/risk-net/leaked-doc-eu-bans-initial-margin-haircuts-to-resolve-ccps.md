@@ -2,7 +2,7 @@
 title: 'Leaked doc: EU bans initial margin haircuts to resolve CCPs'
 date: 2020-07-17T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'regulation', 'CCP', 'initial marging']
+tags: ['2020', '202007', 'regulation', 'CCP', 'initial margin']
 description: 'Council will ban resolution authorities from dipping into clearing members’ initial margin'
 ---
 
