@@ -2,7 +2,7 @@
 title: 'LME Clear stretched by CCP stress tests'
 date: 2020-07-13T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202007', 'risk data', 'CCP'. 'stress test', 'ESMA']
+tags: ['2020', '202007', 'risk data', 'CCP', 'stress test', 'ESMA']
 description: ''
 ---
 
