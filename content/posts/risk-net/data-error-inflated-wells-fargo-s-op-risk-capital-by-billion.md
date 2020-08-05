@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'operational risk', 'AMA', 'RWA']
 description: 'Sharp fall in Q1 RWAs followed removal of duplicate data'
 ---
 
-> _Sharp fall in Q1 RWAs followed removal of duplicate data_
+{{< quote 4682b4 >}}_Sharp fall in Q1 RWAs followed removal of duplicate data_{{< /quote >}}
 
 Faulty data led Wells Fargo to overstate its operational risk capital charge for the fourth quarter of 2019 by $5.2 billion, raising further questions on the soundness of the bank’s [op risk management](https://www.risk.net/risk-management/2474346/wells-fargo-pays-the-price-for-ghost-account-fraud).
 

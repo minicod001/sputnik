@@ -6,8 +6,6 @@ tags: ['2020', '202007', 'derivatives', 'fixed income', 'pricing']
 description: ''
 ---
 
-{{< quote 4682b4 >}}__{{< /quote >}}
-
 Jason Waight, head of regulatory affairs, Europe at [MarketAxess](https://www.marketaxess.com/), considers why access to flexible data is key to using new trading protocols in fixed income
 
 Buy-side traders in the fixed income markets can have very different execution goals from one trade to the next. Price may be the key target for one investment, speed for another. The size of orders can also vary considerably, which impacts trading costs.

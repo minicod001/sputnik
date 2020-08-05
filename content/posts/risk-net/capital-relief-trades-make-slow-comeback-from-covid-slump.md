@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'capital']
 description: 'European synthetic credit risk transfer market now more expensive for banks'
 ---
 
-> _European synthetic credit risk transfer market now more expensive for banks_
+{{< quote 4682b4 >}}_European synthetic credit risk transfer market now more expensive for banks_{{< /quote >}}
 
 Synthetic securitisation deals transferring credit risk from banks’ loan books to buy-side firms are making a slow comeback from a coronavirus-induced slump, and dealers are finding the market has become more expensive for issuers.
 

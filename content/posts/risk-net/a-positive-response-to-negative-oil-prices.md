@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'commodities', 'oil']
 description: 'Overhauling pricing models could reap rewards even if prices don’t cross zero again'
 ---
 
-> _Overhauling pricing models could reap rewards even if prices don’t cross zero again_
+{{< quote 4682b4 >}}_Overhauling pricing models could reap rewards even if prices don’t cross zero again_{{< /quote >}}
 
 Responding to extreme events is never easy. No one wants to waste resources over-preparing for something that may never occur again. But equally, no one wants to be caught out a second time.
 

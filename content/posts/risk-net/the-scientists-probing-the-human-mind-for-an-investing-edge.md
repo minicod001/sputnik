@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'investments', 'behavioural finance']
 description: 'Recent advances in behavioural finance could give rise to new quant models and strategies'
 ---
 
-> _Recent advances in behavioural finance could give rise to new quant models and strategies_
+{{< quote 4682b4 >}}_Recent advances in behavioural finance could give rise to new quant models and strategies_{{< /quote >}}
 
 To understand why investors make mistakes, Cary Frydman once put traders and portfolio managers in a brain scanner.
 

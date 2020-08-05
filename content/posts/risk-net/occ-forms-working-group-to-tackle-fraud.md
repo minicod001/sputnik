@@ -6,7 +6,7 @@ tags: ['2018', '201803', 'operational risk']
 description: 'OpRisk North America: Rise in cyber fraud prompts US regulator to reassess guidance to examiners'
 ---
 
-> _OpRisk North America: Rise in cyber fraud prompts US regulator to reassess guidance to examiners_
+{{< quote 4682b4 >}}_OpRisk North America: Rise in cyber fraud prompts US regulator to reassess guidance to examiners_{{< /quote >}}
 
 The US Office of the Comptroller of the Currency is reviewing its guidance to bank examiners on assessing the adequacy of fraud detection and prevention frameworks amid a rise in cyber threats.
 

@@ -6,7 +6,7 @@ tags: ['2017', '201712', 'risk management']
 description: 'Traders say volatility of discount rate should be taken into account after "unprecedented" 12bp move'
 ---
 
-> _Traders say volatility of discount rate should be taken into account after "unprecedented" 12bp move_
+{{< quote 4682b4 >}}_Traders say volatility of discount rate should be taken into account after "unprecedented" 12bp move_{{< /quote >}}
 
 Traders say the pricing of euro interest rate swaps might need to change after an “unprecedented” jump in the overnight unsecured lending rate exposed the fragility of one of the key inputs.
 

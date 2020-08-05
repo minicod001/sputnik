@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'interview', 'Deutsche Bank']
 description: 'CRO talks loan reserves, VAR breaches, and the lessons of a lurid past'
 ---
 
-> _CRO talks loan reserves, VAR breaches, and the lessons of a lurid past_
+{{< quote 4682b4 >}}_CRO talks loan reserves, VAR breaches, and the lessons of a lurid past_{{< /quote >}}
 
 Josef Ackermann, Anshu Jain, Juergen Fitschen, John Cryan, Christian Sewing – there have been five chief executives of Deutsche Bank during the bleak, bruising years since 2012, but only one chief risk officer (CRO). How has Stuart Lewis done it?
 

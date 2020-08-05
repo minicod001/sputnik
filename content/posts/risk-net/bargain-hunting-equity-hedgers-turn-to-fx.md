@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'investments', 'FX', 'hedge', 'risk data']
 description: 'Currency options are cheap relative to stock index puts, but correlations are uncertain'
 ---
 
-> _Currency options are cheap relative to stock index puts, but correlations are uncertain_
+{{< quote 4682b4 >}}_Currency options are cheap relative to stock index puts, but correlations are uncertain_{{< /quote >}}
 
 Equity investors that can’t stomach the inflated cost of stock index puts are turning to the foreign exchange options market in search of a cheap hedge.
 

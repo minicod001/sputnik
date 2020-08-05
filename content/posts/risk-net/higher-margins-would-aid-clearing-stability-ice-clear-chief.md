@@ -6,7 +6,7 @@ tags: ['2020', '202001', 'regulation', 'CCP', 'initial margin']
 description: 'Using volatility floors to aid “higher margins in peacetime” would have to be globally applied policy, warns Serafini'
 ---
 
-> _Using volatility floors to aid “higher margins in peacetime” would have to be globally applied policy, warns Serafini_
+{{< quote 4682b4 >}}_Using volatility floors to aid “higher margins in peacetime” would have to be globally applied policy, warns Serafini_{{< /quote >}}
 
 The head of London’s largest futures clearing house has voiced support for measures that would see clearing house margins stay permanently higher once the current period of heightened volatility sparked by the Covid-19 pandemic subsides.
 

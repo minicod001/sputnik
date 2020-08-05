@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'investments', 'libor', 'webinar']
 description: 'Benchmark cessation could be announced this year, FCA official reveals – news that has moved the market'
 ---
 
-> _Benchmark cessation could be announced this year, FCA official reveals – news that has moved the market_
+{{< quote 4682b4 >}}_Benchmark cessation could be announced this year, FCA official reveals – news that has moved the market_{{< /quote >}}
 
 {{< betonen grey >}}
 ### The panel

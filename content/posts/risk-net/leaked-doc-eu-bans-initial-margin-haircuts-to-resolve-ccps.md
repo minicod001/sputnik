@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'CCP', 'initial margin']
 description: 'Council will ban resolution authorities from dipping into clearing members’ initial margin'
 ---
 
-> _Council will ban resolution authorities from dipping into clearing members’ initial margin_
+{{< quote 4682b4 >}}_Council will ban resolution authorities from dipping into clearing members’ initial margin_{{< /quote >}}
 
 Leaked documents seen by Risk.net reveal European Union legislators will forbid resolution authorities from being able to raid clearing members’ initial margin accounts if a central counterparty (CCP) runs into financial trouble. Banks have long complained the tool would incentivise a dash for the exit as soon as clearers see signs of stress at a clearing house, to reduce their potential exposure to initial margin haircutting.
 

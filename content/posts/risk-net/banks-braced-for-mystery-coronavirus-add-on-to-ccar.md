@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'banks', 'CCAR', 'capital', 'stress test'
 description: 'Uncertainty surrounds scenario design and impact on stress capital buffer, dividends'
 ---
 
-> _Uncertainty surrounds scenario design and impact on stress capital buffer, dividends_
+{{< quote 4682b4 >}}_Uncertainty surrounds scenario design and impact on stress capital buffer, dividends_{{< /quote >}}
 
 With US capital stress-test results less than a week away, uncertainty over how the Federal Reserve will adjust its assessments to reflect the Covid-19 economic crisis, and the impact this decision will have on banks’ capital plans, is causing sector-wide anxiety.
 

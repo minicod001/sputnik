@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'conduct risk', 'Libor']
 description: 'As replacement rate concerns become more pressing, firms fear Libor lawsuits and regulatory wrath'
 ---
 
-> _As replacement rate concerns become more pressing, firms fear Libor lawsuits and regulatory wrath_
+{{< quote 4682b4 >}}_As replacement rate concerns become more pressing, firms fear Libor lawsuits and regulatory wrath_{{< /quote >}}
 
 Lions and tigers and bears, oh my. A terrible trifecta of operational, legal and conduct risks could be lying in wait for unsuspecting banks on the Libor transition road. Financial institutions should prepare themselves for these half-hidden hazards, say op risk experts – or face brutal consequences.
 

@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Need for change is “undisputed”, official says – but short-term relief expected to come via forbearance'
 ---
 
-> _Need for change is “undisputed”, official says – but short-term relief expected to come via forbearance_
+{{< quote 4682b4 >}}_Need for change is “undisputed”, official says – but short-term relief expected to come via forbearance_{{< /quote >}}
 
 The European Commission has backed plans to exempt buy-side entities from having to post variation margin on certain foreign exchange forwards. But with the regime’s January 3 start date bearing down – and a small window for regulatory change – industry sources believe European and national regulators will shortly announce forbearance for non-complying firms.
 

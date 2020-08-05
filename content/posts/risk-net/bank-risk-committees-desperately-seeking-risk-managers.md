@@ -6,7 +6,7 @@ tags: ['2018', '201806', 'risk management']
 description: 'Most boards still lack career risk specialists despite tighter governance requirements'
 ---
 
-> _Most boards still lack career risk specialists despite tighter governance requirements_
+{{< quote 4682b4 >}}_Most boards still lack career risk specialists despite tighter governance requirements_{{< /quote >}}
 
 Click here for table showing bank risk committee composition
 

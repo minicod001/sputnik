@@ -6,7 +6,7 @@ tags: ['2017', '201712', 'risk management']
 description: 'Risk Awards 2018: Multi-line fund freshens up UK structured products'
 ---
 
-> _Risk Awards 2018: Multi-line fund freshens up UK structured products_
+{{< quote 4682b4 >}}_Risk Awards 2018: Multi-line fund freshens up UK structured products_{{< /quote >}}
 
 Structured products providers face a tough retail market in the UK. The Financial Conduct Authority, if not actively hostile, cautioned retail investors against choosing complex products in its most recent market review in 2015. Some investors are wary after the high-profile liquidation of Jubilee Financial Products in the same year.
 

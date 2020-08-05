@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Market participants say banking book guidelines will be difficult to follow'
 ---
 
-> _Market participants say banking book guidelines will be difficult to follow_
+{{< quote 4682b4 >}}_Market participants say banking book guidelines will be difficult to follow_{{< /quote >}}
 
 Draft European guidelines on managing interest rate risk in bank deposit and loan books do not define credit spread risk clearly, a conference in London has heard. If the proposals are not clarified, market participants claim they will not be able to monitor the risk as required.
 

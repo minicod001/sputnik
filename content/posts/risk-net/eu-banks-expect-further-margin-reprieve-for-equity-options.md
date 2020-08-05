@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'banks', 'derivative', 'IOSCO']
 description: 'Exemptions for intra-group and equity options from non-cleared margin rules expire by January 2021'
 ---
 
-> _Exemptions for intra-group and equity options from non-cleared margin rules expire by January 2021_
+{{< quote 4682b4 >}}_Exemptions for intra-group and equity options from non-cleared margin rules expire by January 2021_{{< /quote >}}
 
 Banks are expecting EU regulators to further extend exemptions for equity options and intra-group trades from non-cleared margin rules on over-the-counter derivatives.
 

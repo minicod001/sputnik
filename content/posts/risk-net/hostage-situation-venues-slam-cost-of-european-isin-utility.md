@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Trading venues bemoan commercial terms of service vital to Mifid II swaps reporting'
 ---
 
-> _Trading venues bemoan commercial terms of service vital to Mifid II swaps reporting_
+{{< quote 4682b4 >}}_Trading venues bemoan commercial terms of service vital to Mifid II swaps reporting_{{< /quote >}}
 
 The godfather of European financial market regulations seems to be making trading venues an offer they cannot refuse. The only way to comply with a compulsory reporting requirement in the second [Markets in Financial Instruments Directive](https://www.risk.net/topics/mifid) is to sign a contract sources describe variously as “terrible” and “unacceptable”.
 

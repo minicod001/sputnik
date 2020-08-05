@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'ECB', 'contagion', 'cross-asset']
 description: 'Research throws more light on the hidden risks of central clearing'
 ---
 
-> _Research throws more light on the hidden risks of central clearing_
+{{< quote 4682b4 >}}_Research throws more light on the hidden risks of central clearing_{{< /quote >}}
 
 Financial stress can move between central counterparties, clearing members and their clients more widely than previously thought, recent research suggests.
 

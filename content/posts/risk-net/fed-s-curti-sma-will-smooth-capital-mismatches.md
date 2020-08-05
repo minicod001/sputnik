@@ -6,7 +6,7 @@ tags: ['2018', '201803', 'operational risk', 'FED', 'capital']
 description: 'OpRisk North America: non-US banks holding less capital under own-models approach was “a big problem”, says regulator'
 ---
 
-> _OpRisk North America: non-US banks holding less capital under own-models approach was “a big problem”, says regulator_
+{{< quote 4682b4 >}}_OpRisk North America: non-US banks holding less capital under own-models approach was “a big problem”, says regulator_{{< /quote >}}
 
 The Basel Committee’s decision to scrap the use of operational risk modelling in favour of a single standardised approach will help solve the “big problem” of non-US banks holding significantly less capital than their US peers on average, according to a senior US regulator.
 

@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Subjecting big firms to tougher regulation is sensible in principle but difficult in practice'
 ---
 
-> _Subjecting big firms to tougher regulation is sensible in principle but difficult in practice_
+{{< quote 4682b4 >}}_Subjecting big firms to tougher regulation is sensible in principle but difficult in practice_{{< /quote >}}
 
 June of 2016 was not a happy time for Deutsche Bank. A week after the Brexit vote had sent its share price tumbling – and the day after its US unit failed the Federal Reserve’s annual stress test for the second year running – the International Monetary Fund published a report labelling it the “most important net contributor to systemic risks” among the world’s largest banks.
 

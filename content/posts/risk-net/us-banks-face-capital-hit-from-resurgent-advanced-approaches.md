@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'banks', 'capital', 'IRB', 'XVA']
 description: 'Banks pushed onto internal models wrestle with procyclical capital charges'
 ---
 
-> _Banks pushed onto internal models wrestle with procyclical capital charges_
+{{< quote 4682b4 >}}_Banks pushed onto internal models wrestle with procyclical capital charges_{{< /quote >}}
 
 With the coronavirus crisis rattling markets and undermining the creditworthiness of even rock-solid firms, US banks have seen risks gauged using their own models leap higher relative to regulator-set standardised measures. Given that the latter are far clunkier than banks’ internal indicators and respond more slowly to changing credit conditions, this could have wide-ranging implications for capital allocation.
 

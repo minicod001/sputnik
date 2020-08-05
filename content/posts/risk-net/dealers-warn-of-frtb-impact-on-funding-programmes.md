@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'EMTNs issued by treasury functions may need to be moved to trading desk because of new market risk rules'
 ---
 
-> _EMTNs issued by treasury functions may need to be moved to trading desk because of new market risk rules_
+{{< quote 4682b4 >}}_EMTNs issued by treasury functions may need to be moved to trading desk because of new market risk rules_{{< /quote >}}
 
 Certain notes issued by banks’ treasury functions to raise funding could be caught under new market risk rules, potentially forcing dealers to move them into the trading desk.
 

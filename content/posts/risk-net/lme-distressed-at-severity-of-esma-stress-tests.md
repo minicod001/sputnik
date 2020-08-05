@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation']
 description: 'Watchdog’s simulated price shocks said to be unprecedented in metals markets'
 ---
 
-> _Watchdog’s simulated price shocks said to be unprecedented in metals markets_
+{{< quote 4682b4 >}}_Watchdog’s simulated price shocks said to be unprecedented in metals markets_{{< /quote >}}
 
 The London Metal Exchange is understood to have been left frustrated by its [failing grade](https://www.risk.net/risk-quantum/7654491/lme-clear-stretched-by-ccp-stress-tests) in the European Securities and Markets Authority’s clearing house stress test this week, after the watchdog subjected its default resources to price shocks that were up to three times more severe than the worst one-day falls on record in key base metal markets.
 

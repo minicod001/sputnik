@@ -6,7 +6,7 @@ tags: ['2017', '201712', 'risk management']
 description: 'Squabble over derivatives liabilities factor sparks fears of unlevel playing field'
 ---
 
-> _Squabble over derivatives liabilities factor sparks fears of unlevel playing field_
+{{< quote 4682b4 >}}_Squabble over derivatives liabilities factor sparks fears of unlevel playing field_{{< /quote >}}
 
 Conflicting proposals on the calibration of the net stable funding ratio unveiled by European Union policymakers have raised concerns that European banks will be forced to raise a far greater amount of high-quality funding for derivatives positions than foreign dealers.
 

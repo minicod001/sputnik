@@ -6,7 +6,7 @@ tags: ['2018', '201803', 'risk management', 'CECL', 'IFRS', 'loan loss', 'banks'
 description: 'Ambiguity in rules sets up potential clash between banks and auditors over “reasonable and supportable” projections'
 ---
 
-> _Ambiguity in rules sets up potential clash between banks and auditors over “reasonable and supportable” projections_
+{{< quote 4682b4 >}}_Ambiguity in rules sets up potential clash between banks and auditors over “reasonable and supportable” projections_{{< /quote >}}
 
 One small phrase is causing big headaches for banks subject to new accounting standards for credit loss provisioning: “reasonable and supportable”. The phrase refers to the information banks rely on when developing forecasts to determine whether loans on their books have suffered a material increase in credit risk between reporting periods.
 

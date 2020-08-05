@@ -6,7 +6,7 @@ tags: ['2018', '201803', 'operational risk']
 description: 'From gender discrimination to the next PPI, a veteran manager looks at forthcoming potential op risks'
 ---
 
-> _From gender discrimination to the next PPI, a veteran manager looks at forthcoming potential op risks_
+{{< quote 4682b4 >}}_From gender discrimination to the next PPI, a veteran manager looks at forthcoming potential op risks_{{< /quote >}}
 
 In the final article accompanying Risk.net’s [top 10 operational risks for 2018](http://www.risk.net/risk-management/5424761/top-10-operational-risks-for-2018), a veteran op risk manager at a large global bank looks at what emerging threats might make it on to a future list.
 

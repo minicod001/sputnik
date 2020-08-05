@@ -6,7 +6,7 @@ tags: ['2018', '201806', 'risk management']
 description: 'Barclays, BNP Paribas and others are analysing risk of climate change-related losses'
 ---
 
-> _Barclays, BNP Paribas and others are analysing risk of climate change-related losses_
+{{< quote 4682b4 >}}_Barclays, BNP Paribas and others are analysing risk of climate change-related losses_{{< /quote >}}
 
 A number of banks have reduced or stopped the funding of polluters in recent years. The reasons for such actions are complex, ranging from ethical concerns to political and shareholder pressure. Increasingly though, lenders are starting to think that it also makes good financial sense.
 

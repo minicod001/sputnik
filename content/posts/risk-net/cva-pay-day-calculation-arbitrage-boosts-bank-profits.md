@@ -6,7 +6,7 @@ tags: ['2017', '201712', 'risk management']
 description: 'Lack of convergence allows some banks to benefit from an arbitrage between booking and pricing the adjustment'
 ---
 
-> _Lack of convergence allows some banks to benefit from an arbitrage between booking and pricing the adjustment_
+{{< quote 4682b4 >}}_Lack of convergence allows some banks to benefit from an arbitrage between booking and pricing the adjustment_{{< /quote >}}
 
 Banks have been adjusting derivatives prices to reflect counterparty credit risk for well over a decade, so it would be reasonable to assume that by now there should be broad agreement on the methodology. But dealers and auditors say vague accounting guidelines and inconsistent regulatory treatment have caused approaches to calculating credit valuation adjustment to vary significantly across banks and regions, creating a lack of alignment between what dealers price and what they account for.
 

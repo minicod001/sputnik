@@ -6,7 +6,7 @@ tags: ['2018', '201807', 'risk management']
 description: 'MIT quant says next project will be to combine behavioural science with tech such as machine learning'
 ---
 
-> _MIT quant says next project will be to combine behavioural science with tech such as machine learning_
+{{< quote 4682b4 >}}_MIT quant says next project will be to combine behavioural science with tech such as machine learning_{{< /quote >}}
 
 Andrew Lo, a professor of finance at the Massachusetts Institute of Technology, dialled in from Boston to talk about regulation, markets and the future of machine learning.
 

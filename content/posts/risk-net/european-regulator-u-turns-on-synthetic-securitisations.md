@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'EBA', 'securitisation', 'synthetic secur
 description: 'Deals with use-it-or-lose-it mechanism can qualify for capital relief, EBA policy expert says'
 ---
 
-> _Deals with use-it-or-lose-it mechanism can qualify for capital relief, EBA policy expert says_
+{{< quote 4682b4 >}}_Deals with use-it-or-lose-it mechanism can qualify for capital relief, EBA policy expert says_{{< /quote >}}
 
 The European Banking Authority looks set to ditch a proposal that would have prevented banks using a popular form of credit enhancement in synthetic securitisations from qualifying for capital relief on the underlying assets.
 

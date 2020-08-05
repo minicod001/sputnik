@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Bodies aim to align EU with other jurisdictions – hinting at end of unpopular rule'
 ---
 
-> _Bodies aim to align EU with other jurisdictions – hinting at end of unpopular rule_
+{{< quote 4682b4 >}}_Bodies aim to align EU with other jurisdictions – hinting at end of unpopular rule_{{< /quote >}}
 
 European regulators have confirmed they are amending a rule that requires buy-side firms to post and collect variation margin on certain foreign exchange forwards from January 3 next year, in a fresh sign that the unpopular requirement will be permanently shelved.
 

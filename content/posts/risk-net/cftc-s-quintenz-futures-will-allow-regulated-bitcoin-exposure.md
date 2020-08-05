@@ -6,7 +6,7 @@ tags: ['2017', '201712', 'risk management']
 description: 'New products allow investors to access digital currency in a monitored marketplace, says CFTC commissioner'
 ---
 
-> _New products allow investors to access digital currency in a monitored marketplace, says CFTC commissioner_
+{{< quote 4682b4 >}}_New products allow investors to access digital currency in a monitored marketplace, says CFTC commissioner_{{< /quote >}}
 
 Exchange-traded bitcoin can provide a way for investors to gain exposure to the digital currency in a venue with regulatory oversight, according to a US Commodity Futures Trading Commission (CFTC) commissioner.
 

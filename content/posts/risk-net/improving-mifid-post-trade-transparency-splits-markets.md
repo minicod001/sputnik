@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'MIFID']
 description: 'Mooted changes to Europe’s transparency regime are dividing markets – largely along functional lines'
 ---
 
-> _Mooted changes to Europe’s transparency regime are dividing markets – largely along functional lines_
+{{< quote 4682b4 >}}_Mooted changes to Europe’s transparency regime are dividing markets – largely along functional lines_{{< /quote >}}
 
 It’s uncontroversial to say that financial markets transparency in Europe has so far failed. Launched in 2018, the current transparency regime has created fixed income and derivatives [trade data that is mostly unusable](https://www.risk.net/regulation/5532211/mifid-data-hard-to-access-hard-to-use), say participants.
 

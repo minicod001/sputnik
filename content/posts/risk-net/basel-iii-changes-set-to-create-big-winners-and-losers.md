@@ -6,7 +6,7 @@ tags: ['2017', '201701', 'risk management']
 description: 'Capital hit for G-Sibs ranges from 28% drop to 43% jump, QIS reveals'
 ---
 
-> _Capital hit for G-Sibs ranges from 28% drop to 43% jump, QIS reveals_
+{{< quote 4682b4 >}}_Capital hit for G-Sibs ranges from 28% drop to 43% jump, QIS reveals_{{< /quote >}}
 
 The Basel Committee on Banking Supervision’s long-awaited additions to the Basel III package will have a muted impact on the banking industry’s aggregate capital requirements, but individual firms could see wildly different outcomes.
 

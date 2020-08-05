@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'investments', 'volatility']
 description: 'Strategies miss recovery from March plunge, prompting rethink on speed of mean reversion'
 ---
 
-> _Strategies miss recovery from March plunge, prompting rethink on speed of mean reversion_
+{{< quote 4682b4 >}}_Strategies miss recovery from March plunge, prompting rethink on speed of mean reversion_{{< /quote >}}
 
 Credit alternative risk premia strategies that size positions based on volatility came unstuck in March – deleveraging when the coronavirus tumult struck but then missing out on the market recovery in April. The episode has led bankers to ask whether volatility scaling – a standard feature of alternative risk premia strategies across asset classes – makes sense for credit.
 

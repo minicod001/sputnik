@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'investments', 'bond', 'CDS', 'basis']
 description: 'Difference between cash bond spreads and derivatives tightens but still offers value, dealers say'
 ---
 
-> _Difference between cash bond spreads and derivatives tightens but still offers value, dealers say_
+{{< quote 4682b4 >}}_Difference between cash bond spreads and derivatives tightens but still offers value, dealers say_{{< /quote >}}
 
 Investors have continued to take advantage of differences between cash bonds and their derivatives, dealers say, as the basis remains high after its historic blowout amid March’s volatility.
 

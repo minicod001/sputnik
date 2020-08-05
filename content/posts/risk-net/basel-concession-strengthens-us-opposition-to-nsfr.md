@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Lobbyists say change to gross derivatives liabilities measure shows the whole ratio is flawed'
 ---
 
-> _Lobbyists say change to gross derivatives liabilities measure shows the whole ratio is flawed_
+{{< quote 4682b4 >}}_Lobbyists say change to gross derivatives liabilities measure shows the whole ratio is flawed_{{< /quote >}}
 
 US regulatory agencies face an uphill struggle to finalise the net stable funding ratio (NSFR), despite a recent concession from the Basel Committee that would allow national authorities to soften the [treatment of derivatives liabilities](https://www.risk.net/risk-management/5338951/basel-seeks-nsfr-fix-for-derivatives).
 

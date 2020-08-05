@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'ESMA', 'liquidity', 'funds', 'stress tes
 description: 'Funds are embracing stress-testing, and swing pricing, after “a real liquidity crisis” in March'
 ---
 
-> _Funds are embracing stress-testing, and swing pricing, after “a real liquidity crisis” in March_
+{{< quote 4682b4 >}}_Funds are embracing stress-testing, and swing pricing, after “a real liquidity crisis” in March_{{< /quote >}}
 
 The heavy outflows from retail funds in March have softened the attitudes of some asset managers who were resistant to upcoming [requirements](https://www.esma.europa.eu/sites/default/files/library/esma34-39-882_final_report_guidelines_on_lst_in_ucits_and_aifs.pdf) on liquidity stress-testing, published by the European Securities and Markets Authority last year.
 

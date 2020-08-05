@@ -6,7 +6,7 @@ tags: ['2018', '201803', 'operational risk', 'CCAR', 'stress test', 'AMA']
 description: 'OpRisk North America: Fed’s annual stress tests are rehabilitating ‘black box’ op risk modelling'
 ---
 
-> _OpRisk North America: Fed’s annual stress tests are rehabilitating ‘black box’ op risk modelling_
+{{< quote 4682b4 >}}_OpRisk North America: Fed’s annual stress tests are rehabilitating ‘black box’ op risk modelling_{{< /quote >}}
 
 The US Federal Reserve’s annual stress tests for large banks may have accomplished what the Basel Committee on Banking Supervision could not: legitimising the field of operational risk modelling.
 

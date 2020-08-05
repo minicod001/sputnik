@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'credit risk']
 description: 'Credit conditions were worsening before Covid, research finds'
 ---
 
-> _Credit conditions were worsening before Covid, research finds_
+{{< quote 4682b4 >}}_Credit conditions were worsening before Covid, research finds_{{< /quote >}}
 
 The coronavirus pandemic is expected to bring a record number of corporate bankruptcies in the US, but lenders should have spotted signs of elevated credit risk before the crisis struck, new research suggests.
 

@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'securitisation', 'EBA', 'capital']
 description: 'As structural woes resolve, regulators remain split on preferential capital treatment for STS deals'
 ---
 
-> _As structural woes resolve, regulators remain split on preferential capital treatment for STS deals_
+{{< quote 4682b4 >}}_As structural woes resolve, regulators remain split on preferential capital treatment for STS deals_{{< /quote >}}
 
 Europe’s economies are in need of something sweet to help perk up their post-pandemic listlessness. And as the European Commission seeks ways to revive them, banks have been quick to point to a possible solution. Balance sheet synthetic securitisation – an increasingly popular technique that transfers credit risk off bank’s balance sheets – could help, say bankers.
 

@@ -6,7 +6,7 @@ tags: ['2018', '201807', 'risk management']
 description: 'Financial regulation should be adaptive, not reactive, argues Andrew Lo'
 ---
 
-> _Financial regulation should be adaptive, not reactive, argues Andrew Lo_
+{{< quote 4682b4 >}}_Financial regulation should be adaptive, not reactive, argues Andrew Lo_{{< /quote >}}
 
 The tenth anniversary of the disastrous weekend that nearly brought down the global financial system is fast approaching. But in many of the jurisdictions that were central to the crisis, financial regulations introduced in the aftermath, aimed at preventing a repeat, are now being rolled back. The pendulum of regulation is now swinging back towards fewer and looser restrictions – and if the past is any guide, a ramp-up in systemic risk exposures will be the result.
 

@@ -6,7 +6,7 @@ tags: ['2018', '201807', 'risk management']
 description: 'Advisers warn of discrepancy in advice to regulators over automated decision-making'
 ---
 
-> _Advisers warn of discrepancy in advice to regulators over automated decision-making_
+{{< quote 4682b4 >}}_Advisers warn of discrepancy in advice to regulators over automated decision-making_{{< /quote >}}
 
 Industry participants have voiced concern over an apparent discrepancy between the text of the European Union’s new data privacy laws and subsequent interpretative guidance to regulators on how the new regime should treat a key use case of machine learning. Advisers say the first legal precedents set under the rules could have major implications for banks’ use of machine learning-based algorithms to automate everyday decisions such as credit card approvals.
 

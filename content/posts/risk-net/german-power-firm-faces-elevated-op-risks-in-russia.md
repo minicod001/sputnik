@@ -6,7 +6,7 @@ tags: ['2018', '201803', 'operational risk']
 description: 'OpRisk North America: clusters of risks cause problems for Uniper'
 ---
 
-> _OpRisk North America: clusters of risks cause problems for Uniper_
+{{< quote 4682b4 >}}_OpRisk North America: clusters of risks cause problems for Uniper_{{< /quote >}}
 
 Electricity generator Uniper faces a concentration of operational risk in one of its key markets, Russia, amid political wrangling over a flagship pipeline project. The problems typify the broad range of op risks afflicting the power sector and their dangerous degree of interconnection, the firm’s chief risk officer warns.
 

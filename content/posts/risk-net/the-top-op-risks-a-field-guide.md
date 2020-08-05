@@ -6,7 +6,7 @@ tags: ['2018', '201802', 'operational risk']
 description: 'Survey should be read as industrywide attempt to relay and share worries anonymously'
 ---
 
-> _Survey should be read as industrywide attempt to relay and share worries anonymously_
+{{< quote 4682b4 >}}_Survey should be read as industrywide attempt to relay and share worries anonymously_{{< /quote >}}
 
 {{< betonen gold >}}
 **Categories:**

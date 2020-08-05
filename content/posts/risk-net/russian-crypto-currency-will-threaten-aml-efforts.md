@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Targeting individuals and companies could be impossible with digital currency, write academics'
 ---
 
-> _Targeting individuals and companies could be impossible with digital currency, write academics_
+{{< quote 4682b4 >}}_Targeting individuals and companies could be impossible with digital currency, write academics_{{< /quote >}}
 
 Russia is preparing to issue a government-backed crypto-currency, [CryptoRuble](http://www.aif.ru/money/economy/rossiya_vypustit_sobstvennuyu_kriptovalyutu_ministr_svyazi). Unlike decentralised crypto-currencies such as bitcoin and Ethereum, there is no mining involved in [CryptoRuble](http://www.aif.ru/money/economy/rossiya_vypustit_sobstvennuyu_kriptovalyutu_ministr_svyazi) – all transactions are recorded via blockchain and verified by a centralised government authority.
 

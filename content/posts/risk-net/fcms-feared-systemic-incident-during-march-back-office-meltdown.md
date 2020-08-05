@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'CCP', 'operational risk']
 description: 'Trade breaks following Covid-19 spike in futures volumes required massive clean-up job, says BofA exec'
 ---
 
-> _Trade breaks following Covid-19 spike in futures volumes required massive clean-up job, says BofA exec_
+{{< quote 4682b4 >}}_Trade breaks following Covid-19 spike in futures volumes required massive clean-up job, says BofA exec_{{< /quote >}}
 
 More collaboration between central counterparties (CCPs), vendors and buy-side firms is needed to prevent dangerous operational bottlenecks from developing in futures and options markets, say clearing members, after a massive spike in trading volumes in March due to coronavirus-induced volatility saw missed margin payments and trades being left on the books of the wrong clearing brokers.
 

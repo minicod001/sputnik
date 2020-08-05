@@ -6,8 +6,6 @@ tags: ['2020', '202007', 'derivatives', 'RFR', 'LIBOR']
 description: ''
 ---
 
-{{< quote 4682b4 >}}__{{< /quote >}}
-
 In this feature, Bing Li, head of Asia‑Pacific, and Steffan Tsilimos, global head of interest rate derivatives products at Bloomberg, explore the implications of the Libor transition on the Asia markets and the broader market impact of the transition.
 
 The wide-ranging impact of the move away from the use of Libor to risk-free rates (RFRs) on financial institutions and corporates is a well-known fact. It involves a fundamental change in the underlying interest rates used in all kinds of instrument and asset classes, which affects how financial institutions and corporations operate. As such, firms will need to overhaul their systems and data management to calculate new profit and loss (P&L), manage risks and get pricing, among other considerations.

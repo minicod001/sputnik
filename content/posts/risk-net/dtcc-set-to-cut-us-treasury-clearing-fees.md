@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Revised fee structure could prompt more firms to participate in clearing'
 ---
 
-> _Revised fee structure could prompt more firms to participate in clearing_
+{{< quote 4682b4 >}}_Revised fee structure could prompt more firms to participate in clearing_{{< /quote >}}
 
 The Depository Trust & Clearing Corporation is looking to simplify and lower its fee structure, to encourage more firms to voluntarily clear US Treasuries.
 

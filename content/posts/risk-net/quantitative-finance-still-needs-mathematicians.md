@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Quants develop model that fixes a longstanding problem with pricing American options'
 ---
 
-> _Quants develop model that fixes a longstanding problem with pricing American options_
+{{< quote 4682b4 >}}_Quants develop model that fixes a longstanding problem with pricing American options_{{< /quote >}}
 
 Calibration of models to American options has never been an easy task, mainly because, unlike European options, the buyer can choose to exercise the option early.
 

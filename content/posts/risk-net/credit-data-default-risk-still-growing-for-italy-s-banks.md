@@ -6,7 +6,7 @@ tags: ['2018', '201807', 'risk management']
 description: 'Despite a drop in the bad loan ratio, default estimates continue to rise, writes David Carruthers of Credit Benchmark'
 ---
 
-> _Despite a drop in the bad loan ratio, default estimates continue to rise, writes David Carruthers of Credit Benchmark_
+{{< quote 4682b4 >}}_Despite a drop in the bad loan ratio, default estimates continue to rise, writes David Carruthers of Credit Benchmark_{{< /quote >}}
 
 Since the 2008 financial crisis, Italian banks have seen particularly rapid growth in non-performing loans (NPLs) compared with other eurozone countries. In the past decade, the ratio of Italian bank NPLs to total loan value increased from 5.8% in 2007 to 18.1% in 2016.
 

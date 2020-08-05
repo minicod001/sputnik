@@ -6,7 +6,7 @@ tags: ['2017', '201712', 'risk management']
 description: 'Basel Committee ready to release new accord but patchy adoption of internal model floor and FRTB expected'
 ---
 
-> _Basel Committee ready to release new accord but patchy adoption of internal model floor and FRTB expected_
+{{< quote 4682b4 >}}_Basel Committee ready to release new accord but patchy adoption of internal model floor and FRTB expected_{{< /quote >}}
 
 Fans of track cycling will be familiar with the individual sprint event, where the two participants often spend the early part of the race competing to cycle as slowly as possible. The riders inch their way around the outside of the track, desperate not to lead the race and end up at a tactical disadvantage to their rival who can attack from behind.
 

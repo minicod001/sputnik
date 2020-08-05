@@ -6,8 +6,8 @@ tags: ['2018', '201807', 'risk management']
 description: 'International accounting standards offer more favourable treatment of expected credit losses'
 ---
 
-> _International accounting standards offer more favourable treatment of expected credit losses_
-
+{{< quote 4682b4 >}}_International accounting standards offer more favourable treatment of expected credit losses_
+{{< /quote >}}
 US subsidiaries of foreign banks are weighing the idea of repatriating loans booked in the US back to their parent companies once the Current Expected Credit Loss accounting standard takes effect in 2020.
 
 Repatriating loans could benefit the foreign banks because the loans would then be subject to new accounting standard IFRS 9, rather than the sterner CECL rules. This would allow the banks to hold less in loan-loss reserves, and conserve capital.

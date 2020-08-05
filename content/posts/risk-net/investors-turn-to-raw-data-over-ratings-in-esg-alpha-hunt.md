@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'investments', 'ESG']
 description: 'Firms are using data on product returns and employee welfare to pick winners'
 ---
 
-> _Firms are using data on product returns and employee welfare to pick winners_
+{{< quote 4682b4 >}}_Firms are using data on product returns and employee welfare to pick winners_{{< /quote >}}
 
 Product returns are not usually a factor in socially responsible investing. But with more conventional approaches that rely on environmental, social and governance (ESG) scores looking increasingly dated, some quant firms are combing novel datasets, such as textual information on product returns, for more granular investing signals.
 

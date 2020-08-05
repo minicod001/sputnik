@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'investments', 'behavioural finance']
 description: 'The new field of experimental finance goes beyond backtesting'
 ---
 
-> _The new field of experimental finance goes beyond backtesting_
+{{< quote 4682b4 >}}_The new field of experimental finance goes beyond backtesting_{{< /quote >}}
 
 Plenty of investment managers describe their approach to investing as scientific. In reality, that only goes so far. Scientists use experiments to prove their theories. In finance, quants build strategies, test them out-of-sample, and then peddle them to investors.
 

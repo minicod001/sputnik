@@ -6,7 +6,7 @@ tags: ['2018', '201807', 'risk management']
 description: 'Concerns over cost, applicability and oversight give pause to banks’ use of ML techniques in credit risk'
 ---
 
-> _Concerns over cost, applicability and oversight give pause to banks’ use of ML techniques in credit risk_
+{{< quote 4682b4 >}}_Concerns over cost, applicability and oversight give pause to banks’ use of ML techniques in credit risk_{{< /quote >}}
 
 A technology that enables banks to make instant lending decisions. A technology that weighs up credit risk based on large amounts of available data and with little need for human intervention. A technology that, crucially, can learn for itself.
 

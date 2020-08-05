@@ -6,7 +6,7 @@ tags: ['2018', '201802', 'risk management', 'MIFID']
 description: 'Market data fees charged by exchanges continue to be a bone of contention for banks, electronic trading firms and asset managers. And although recent events playing out in the US are adding fuel to the fee fire, frustration levels are rising in Europe too, as Kirsten Hyde reports.'
 ---
 
-> _Market data fees charged by exchanges continue to be a bone of contention for banks, electronic trading firms and asset managers. And although recent events playing out in the US are adding fuel to the fee fire, frustration levels are rising in Europe too, as Kirsten Hyde reports._
+{{< quote 4682b4 >}}_Market data fees charged by exchanges continue to be a bone of contention for banks, electronic trading firms and asset managers. And although recent events playing out in the US are adding fuel to the fee fire, frustration levels are rising in Europe too, as Kirsten Hyde reports._{{< /quote >}}
 
 While calls to US regulator the [Securities and Exchange Commission (SEC)](http://www.waterstechnology.com/organisations/securities-and-exchange-commission) to scrutinize how exchanges’ market data fees are determined have focused the limelight on data fees in recent months, trading firms in Europe are now turning up the heat on an issue that has been playing out between brokers and exchanges in equities for years.
 

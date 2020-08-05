@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Applications have risen sharply in recent months, but concerns Asia is lagging behind other jurisdictions remain'
 ---
 
-> _Applications have risen sharply in recent months, but concerns Asia is lagging behind other jurisdictions remain_
+{{< quote 4682b4 >}}_Applications have risen sharply in recent months, but concerns Asia is lagging behind other jurisdictions remain_{{< /quote >}}
 
 A senior European regulator has defended the mechanism by which counterparties caught by new trading rules next year must register for a formal [legal entity identifier](https://www.risk.net/topics/legal-entity-identifiers-%28LEIs%29), arguing that criticisms of the process as costly and overly bureaucratic are wide of the mark.
 

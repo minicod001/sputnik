@@ -6,7 +6,7 @@ tags: ['2018', '201803', 'risk management', 'Deutsche Boerse', 'Eurex']
 description: 'Technical problems with Eurex’s T7 system delayed trading on the day of a big listing for Deutsche Börse.'
 ---
 
-> _Technical problems with Eurex’s T7 system delayed trading on the day of a big listing for Deutsche Börse._
+{{< quote 4682b4 >}}_Technical problems with Eurex’s T7 system delayed trading on the day of a big listing for Deutsche Börse._{{< /quote >}}
 
 Both [Eurex](http://www.waterstechnology.com/organisations/eurex-exchange) and the [Xetra](http://www.waterstechnology.com/organisations/xetra) cash market were affected. Trading was supposed to begin at 8am Central European Time (CET). At 8:15am, [Eurex](http://www.waterstechnology.com/organisations/eurex-exchange) reported the issues had been contained, and at 9:05am the exchange listed its technical status as “resolved.”
 

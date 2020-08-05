@@ -6,7 +6,7 @@ tags: ['2018', '201803', 'operational risk']
 description: 'OpRisk North America: Swiss bank has taken action to prevent a repeat of costly missteps'
 ---
 
-> _OpRisk North America: Swiss bank has taken action to prevent a repeat of costly missteps_
+{{< quote 4682b4 >}}_OpRisk North America: Swiss bank has taken action to prevent a repeat of costly missteps_{{< /quote >}}
 
 UBS is hoping its regulators will reduce the level of operational risk capital it must hold against past losses under the forthcoming standardised measurement approach (SMA), according to James Oates, UBS’s global head of compliance and operational risk control.
 

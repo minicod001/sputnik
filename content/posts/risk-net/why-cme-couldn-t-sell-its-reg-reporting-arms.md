@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation']
 description: 'Costs and competition proved fatal for Abide and Nex businesses and trade repositories'
 ---
 
-> _Costs and competition proved fatal for Abide and Nex businesses and trade repositories_
+{{< quote 4682b4 >}}_Costs and competition proved fatal for Abide and Nex businesses and trade repositories_{{< /quote >}}
 
 In the world of financial technology, mergers and acquisitions (M&A) are simply a way of life. In May 2016, Nex Group was born after Icap [sold its broking business](https://www.waterstechnology.com/management-strategy/2458506/icap-renamed-nex-group) to Tullett Prebon. Five months later, Nex (still using the Icap moniker) [bought Abide Financial](https://www.waterstechnology.com/management-strategy/2474219/abide-financial-looking-to-scale-with-icap-acquisition) to bolster its suite of regulatory reporting services. Just over two years later, on November 2, 2018, CME Group closed [its acquisition of Nex](https://www.waterstechnology.com/organization-management/alliances-mergers-acquisitions/3558686/nex-ceo-sees-opportunity-for-opportunities-after-cme-deal).
 

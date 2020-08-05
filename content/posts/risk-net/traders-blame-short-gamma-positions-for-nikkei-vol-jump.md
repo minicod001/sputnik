@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Uridashis, macro positioning and ETFs behind record 23% rise in volatility on November 9'
 ---
 
-> _Uridashis, macro positioning and ETFs behind record 23% rise in volatility on November 9_
+{{< quote 4682b4 >}}_Uridashis, macro positioning and ETFs behind record 23% rise in volatility on November 9_{{< /quote >}}
 
 Short gamma positioning from structured products, macro flows and exchange-traded funds (ETFs) is being blamed for a sharp intraday Nikkei move earlier this month that saw the related volatility index jump a record 23%.
 

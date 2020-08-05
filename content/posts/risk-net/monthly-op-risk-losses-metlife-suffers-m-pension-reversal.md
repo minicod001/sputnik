@@ -6,7 +6,7 @@ tags: ['2018', '201803', 'operational risk']
 description: 'Also: UK credit card mis-selling; Italy crypto loss; LendingClub class action settlement. Data by ORX News'
 ---
 
-> _Also: UK credit card mis-selling; Italy crypto loss; LendingClub class action settlement. Data by ORX News_
+{{< quote 4682b4 >}}_Also: UK credit card mis-selling; Italy crypto loss; LendingClub class action settlement. Data by ORX News_{{< /quote >}}
 
 The biggest operational risk loss in February was incurred by US insurer MetLife, which reinstated [$510 million](http://services.corporate-ir.net/SEC.Enhanced/SecCapsule.aspx?c=121171&fid=15445713) of pension reserves it had previously released in the 1990s. The firm discovered it had failed to make appropriate efforts to locate almost 13,500 people before declaring them “unresponsive and missing” and releasing their funds from its reserves. As a result, annuitants failed to receive due payments over a 25-year period.
 

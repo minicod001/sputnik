@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Current hedging tools inadequate, but regulators reluctant to liberalise derivatives markets'
 ---
 
-> _Current hedging tools inadequate, but regulators reluctant to liberalise derivatives markets_
+{{< quote 4682b4 >}}_Current hedging tools inadequate, but regulators reluctant to liberalise derivatives markets_{{< /quote >}}
 
 China’s recent bond market sell-off, which sent sovereign yields to a three-year high in November, could pressure the world’s second-largest economy to develop an interest rate options market, allowing investors to hedge their exposure, according to market participants.
 

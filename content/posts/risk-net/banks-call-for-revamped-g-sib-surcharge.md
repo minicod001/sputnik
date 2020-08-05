@@ -6,7 +6,7 @@ tags: ['2018', '201807', 'risk management']
 description: 'Fears surcharge will raise post-stress capital requirements under proposed new buffer'
 ---
 
-> _Fears surcharge will raise post-stress capital requirements under proposed new buffer_
+{{< quote 4682b4 >}}_Fears surcharge will raise post-stress capital requirements under proposed new buffer_{{< /quote >}}
 
 US banks are calling on the Federal Reserve to change the way it calculates its capital surcharge for global systemically important banks (G-Sibs), in order to avoid a spike in capital requirements under its proposed stress capital buffer.
 

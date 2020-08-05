@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'operational risk']
 description: 'Firms seek better handle on impact of global shocks, and hope to avert regulatory attention'
 ---
 
-> _Firms seek better handle on impact of global shocks, and hope to avert regulatory attention_
+{{< quote 4682b4 >}}_Firms seek better handle on impact of global shocks, and hope to avert regulatory attention_{{< /quote >}}
 
 Covid-19 has forced banks to revisit their assumptions about the impact that pandemics can have on every aspect of their business – not least, their operational risk frameworks. While practitioners fear the full effects of the crisis will take years to get their arms around, many are already revising the scenarios used for capital planning and stress-testing. Their objective is to better anticipate the range and severity of future shocks, to bolster resilience – and avoid regulatory intervention.
 

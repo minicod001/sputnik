@@ -6,7 +6,7 @@ tags: ['2018', '201806', 'risk management']
 description: 'Ebor especially suited to modelling loss events such as legal claims, say proponents'
 ---
 
-> _Ebor especially suited to modelling loss events such as legal claims, say proponents_
+{{< quote 4682b4 >}}_Ebor especially suited to modelling loss events such as legal claims, say proponents_{{< /quote >}}
 
 Operational risk modelling has long been viewed as something of an alchemic process, reliant to a greater or lesser degree on making sense of patterns in historical losses to predict future capital requirements. Now, a group of op risk experts is proposing an alternative quantification technique based instead on current exposures and event frequencies – an approach the experts say has longevity for banks, even after the current internal models regime is scrapped.
 

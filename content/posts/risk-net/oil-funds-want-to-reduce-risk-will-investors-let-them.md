@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'investments', 'oil', 'commodities']
 description: 'Despite posting big losses, funds that track front-month contracts remain popular with investors'
 ---
 
-> _Despite posting big losses, funds that track front-month contracts remain popular with investors_
+{{< quote 4682b4 >}}_Despite posting big losses, funds that track front-month contracts remain popular with investors_{{< /quote >}}
 
 Sometimes, the customer is wrong.
 

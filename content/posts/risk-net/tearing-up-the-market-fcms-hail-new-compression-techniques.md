@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Advances by vendors and increased competition set to unlock more trades for tear-ups'
 ---
 
-> _Advances by vendors and increased competition set to unlock more trades for tear-ups_
+{{< quote 4682b4 >}}_Advances by vendors and increased competition set to unlock more trades for tear-ups_{{< /quote >}}
 
 Banks sometimes seem less interested in putting on new swaps trades these days than finding ways to clean up old ones.
 

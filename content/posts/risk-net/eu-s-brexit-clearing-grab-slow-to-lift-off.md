@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'Brexit', 'CCP']
 description: 'Clearing members say clients aren’t transferring material volumes from LCH to Eurex rapidly'
 ---
 
-> _Clearing members say clients aren’t transferring material volumes from LCH to Eurex rapidly_
+{{< quote 4682b4 >}}_Clearing members say clients aren’t transferring material volumes from LCH to Eurex rapidly_{{< /quote >}}
 
 The migration of cleared swaps from UK central counterparties to EU counterparts has only made slow and immaterial progress, according to clearing members speaking during a virtual conference.
 

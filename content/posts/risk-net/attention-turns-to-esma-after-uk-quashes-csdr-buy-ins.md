@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'ESMA', 'CSDR']
 description: 'Esma launched informal review just before UK Treasury opted out of settlement regime'
 ---
 
-> _Esma launched informal review just before UK Treasury opted out of settlement regime_
+{{< quote 4682b4 >}}_Esma launched informal review just before UK Treasury opted out of settlement regime_{{< /quote >}}
 
 The European Union could face renewed pressure to rethink its pending rules on settlement discipline following the UK government’s unilateral decision to opt out of the regime, which is due to go into effect in February 2021.
 

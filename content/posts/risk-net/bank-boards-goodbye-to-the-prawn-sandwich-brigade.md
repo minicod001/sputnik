@@ -6,7 +6,7 @@ tags: ['2018', '201807', 'risk management']
 description: 'Focus on personal liability makes risk committees a more effective challenge, say banks'
 ---
 
-> _Focus on personal liability makes risk committees a more effective challenge, say banks_
+{{< quote 4682b4 >}}_Focus on personal liability makes risk committees a more effective challenge, say banks_{{< /quote >}}
 
 Football fans may be familiar with the phrase ‘prawn sandwich brigade’. It was coined after then-Manchester United captain Roy Keane ranted about a perceived lack of support from his team’s home crowd during a game against Ukraine’s Dynamo Kiev in 2000.
 

@@ -6,7 +6,7 @@ tags: ['2017', '201712', 'risk management']
 description: 'Dual-registered venue no longer necessary under US-EU substituted compliance regime, say lawyers'
 ---
 
-> _Dual-registered venue no longer necessary under US-EU substituted compliance regime, say lawyers_
+{{< quote 4682b4 >}}_Dual-registered venue no longer necessary under US-EU substituted compliance regime, say lawyers_{{< /quote >}}
 
 Mutual recognition of trading venues by European Union and US regulators, agreed on December 5, could spell the end for TP Icap’s dual-registered swap execution facility in Europe.
 

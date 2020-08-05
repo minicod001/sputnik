@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'investments', 'webinar', 'Libor']
 description: 'Panellists from JP Morgan, Morgan Stanley and Tradeweb discuss "make or break" year for transition'
 ---
 
-> _Panellists from JP Morgan, Morgan Stanley and Tradeweb discuss "make or break" year for transition_
+{{< quote 4682b4 >}}Panellists from JP Morgan, Morgan Stanley and Tradeweb discuss "make or break" year for transition_{{< /quote >}}
 
 {{< betonen grey >}}
 ### The panel

@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'commodities', 'podcast']
 description: 'Energy company CRO discusses how her firm is dealing with workplace stress as lockdowns ease'
 ---
 
-> _Energy company CRO discusses how her firm is dealing with workplace stress as lockdowns ease_
+{{< quote 4682b4 >}}_Energy company CRO discusses how her firm is dealing with workplace stress as lockdowns ease_{{< /quote >}}
 
 As well as heightening uncertainty and worry on a personal level, the Covid-19 pandemic increased stress levels at work for many people. For those in the energy trading and risk professions, this was particularly pronounced, as people dealt with unprecedented market volatility and even existential threat at some level – all of this while socially distanced, and often working in less than ideal conditions.
 

@@ -6,7 +6,7 @@ tags: ['2018', '201807', 'risk management']
 description: 'Three out of 30 banks compliant with six months to go; talk of capital add-ons for laggards'
 ---
 
-> _Three out of 30 banks compliant with six months to go; talk of capital add-ons for laggards_
+{{< quote 4682b4 >}}_Three out of 30 banks compliant with six months to go; talk of capital add-ons for laggards_{{< /quote >}}
 
 Regulators are beginning to lose patience with [banks’ weak](https://www.risk.net/risk-quantum/5713031/banks-struggle-with-bcbs-239-implementation) response to implementing BCBS 239, the Basel Committee on Banking Supervision’s gold standard for the calibre and collection of data at banks.
 

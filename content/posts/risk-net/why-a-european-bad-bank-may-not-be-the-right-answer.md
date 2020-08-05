@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'SRMR']
 description: 'Types of loans most likely to become distressed due to coronavirus don’t suit EU-wide solution'
 ---
 
-> _Types of loans most likely to become distressed due to coronavirus don’t suit EU-wide solution_
+{{< quote 4682b4 >}}_Types of loans most likely to become distressed due to coronavirus don’t suit EU-wide solution_{{< /quote >}}
 
 In recent weeks, there has been much talk of setting up a European bad bank to manage the growing non-performing loans in the banking sector resulting from the Covid-19 outbreak. Is this idea legally feasible and financially sound?
 

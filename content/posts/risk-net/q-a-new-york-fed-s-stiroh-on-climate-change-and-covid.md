@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'interview']
 description: 'Co-chair of Basel task force discusses possible supervisory approaches to climate risk'
 ---
 
-> _Co-chair of Basel task force discusses possible supervisory approaches to climate risk_
+{{< quote 4682b4 >}}_Co-chair of Basel task force discusses possible supervisory approaches to climate risk_{{< /quote >}}
 
 The coronavirus pandemic had the potential to push climate risk cleanly off the global regulatory agenda, much as the financial crisis had done more than a decade earlier. Instead, central bankers have doubled down on multilateral plans since March, treating the economic wreckage of the virus as a warning of the kind of shocks that will occur with alarming frequency due to climate change.
 

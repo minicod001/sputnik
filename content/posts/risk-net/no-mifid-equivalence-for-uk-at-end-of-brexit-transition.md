@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'investments', 'MIFID']
 description: 'Footnote reveals assessment delay beyond January 2021, piling pressure on London-based firms'
 ---
 
-> _Footnote reveals assessment delay beyond January 2021, piling pressure on London-based firms_
+{{< quote 4682b4 >}}_Footnote reveals assessment delay beyond January 2021, piling pressure on London-based firms_{{< /quote >}}
 
 The European Commission will not initiate an assessment vital to preserving cross-border trading between the European Union and UK, citing an incomplete legal framework that prevents EU authorities from starting the process.
 

@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Firms postpone plans to start margining before January 3 in case EU regulators scrap new requirement'
 ---
 
-> _Firms postpone plans to start margining before January 3 in case EU regulators scrap new requirement_
+{{< quote 4682b4 >}}_Firms postpone plans to start margining before January 3 in case EU regulators scrap new requirement_{{< /quote >}}
 
 Users of foreign exchange forwards in Europe say they will postpone plans to start margining their trades while waiting to find out whether regulators will delay or scrap the requirement.
 

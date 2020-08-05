@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'US commitment to FRTB is essential to persuade Europe to adopt a 72.5% output floor'
 ---
 
-> _US commitment to FRTB is essential to persuade Europe to adopt a 72.5% output floor_
+{{< quote 4682b4 >}}_US commitment to FRTB is essential to persuade Europe to adopt a 72.5% output floor_{{< /quote >}}
 
 European lawmakers are likely to give a hostile reception to a possible compromise deal at the Basel Committee on Banking Supervision, after regulators indicated they were close to agreeing to set a floor for internal capital models at 72.5% of the standardised approaches.
 

@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'First three quarters show strong growth in interest rate swaps, forex NDFs and index CDSs'
 ---
 
-> _First three quarters show strong growth in interest rate swaps, forex NDFs and index CDSs_
+{{< quote 4682b4 >}}_First three quarters show strong growth in interest rate swaps, forex NDFs and index CDSs_{{< /quote >}}
 
 With three quarters’ worth of swaps data now in, it’s a good chance to take stock of overall volumes and the competitive picture across a range of products and currencies. In short, the story is that volumes are growing, but not for all central counterparties (CCPs) and swap execution facilities (Sefs) – some are growing faster than others; some are down year-on-year.
 

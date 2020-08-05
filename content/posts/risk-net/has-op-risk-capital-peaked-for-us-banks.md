@@ -6,7 +6,7 @@ tags: ['2018', '201806', 'risk management']
 description: 'Analysts expect steady fall in biggest banks’ $1.4 trillion in RWAs'
 ---
 
-> _Analysts expect steady fall in biggest banks’ $1.4 trillion in RWAs_
+{{< quote 4682b4 >}}_Analysts expect steady fall in biggest banks’ $1.4 trillion in RWAs_{{< /quote >}}
 
 Operational risk capital – for so long the bane of big US banks – may finally have passed its high-water mark, as the pace of fines racked up for crisis-era misdeeds starts to abate.
 

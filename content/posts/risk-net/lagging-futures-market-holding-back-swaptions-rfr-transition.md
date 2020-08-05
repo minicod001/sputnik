@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'investments', 'RFR', 'swaption']
 description: '“Elephant in the room” is hindering non-linear growth and swap market liquidity, say rates traders'
 ---
 
-> _“Elephant in the room” is hindering non-linear growth and swap market liquidity, say rates traders_
+{{< quote 4682b4 >}}_“Elephant in the room” is hindering non-linear growth and swap market liquidity, say rates traders_{{< /quote >}}
 
 The futures market’s dawdling on Libor transition is impeding adoption of risk-free rates in the swaptions market and creating barriers to the development of swap markets linked to the new benchmarks, according to senior interest rate traders.
 

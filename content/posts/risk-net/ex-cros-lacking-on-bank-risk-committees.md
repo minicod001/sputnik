@@ -6,7 +6,7 @@ tags: ['2018', '201806', 'risk management']
 description: 'Only four former CROs are members of committees at 15 large banks, same total as 2012'
 ---
 
-> _Only four former CROs are members of committees at 15 large banks, same total as 2012_
+{{< quote 4682b4 >}}_Only four former CROs are members of committees at 15 large banks, same total as 2012_{{< /quote >}}
 
 An analysis of 15 large banks reveals only four have former chief risk officers (CROs) with large bank experience as external members of their board risk committees – the same number as in 2012, when Risk.net[undertook a study](https://www.risk.net/risk-management/2187658/jp-morgan-loss-highlights-lack-risk-experts-bank-committees) of committees at the same firms.
 

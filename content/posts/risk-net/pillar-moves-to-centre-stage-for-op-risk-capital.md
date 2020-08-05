@@ -6,7 +6,7 @@ tags: ['2018', '201802', 'operational risk', 'Basel']
 description: 'US banks set for sharp falls in Pillar 1 requirements, but regulator-set add-ons cloud SMA’s impact'
 ---
 
-> _US banks set for sharp falls in Pillar 1 requirements, but regulator-set add-ons cloud SMA’s impact_
+{{< quote 4682b4 >}}_US banks set for sharp falls in Pillar 1 requirements, but regulator-set add-ons cloud SMA’s impact_{{< /quote >}}
 
 The transatlantic divide that exists between US and European banks on expected changes in operational risk capital under Basel III could be smaller than it first appeared. While European banks in general will likely see an increase in their capital requirements, and US banks a decrease, the differences may be offset at least in part by Pillar 2 adjustments.
 

@@ -6,8 +6,6 @@ tags: ['2020', '202007', 'derivatives', 'fixed income', 'pricing']
 description: ''
 ---
 
-{{< quote 4682b4 >}}__{{< /quote >}}
-
 Jason Waight, head of regulatory affairs and business management, Europe at [MarketAxess](https://www.marketaxess.com/), explains how investment in commercial transparency solutions has proven itself in 2020, and why this leaves a question mark over the potential value of a centralised bond tape.
 
 The support for a European consolidated tape on fixed income prices from the European Commission was launched in the wake of a similar initiative for the equity market. But it risks tracking the same path too closely. Equity liquidity is very different to fixed income liquidity, and so is pricing. It may not deliver the same value.

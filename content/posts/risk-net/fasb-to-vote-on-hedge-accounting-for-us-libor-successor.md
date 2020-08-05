@@ -6,7 +6,7 @@ tags: ['2017', '201712', 'risk management']
 description: 'Standards body likely to approve SOFR as eligible'
 ---
 
-> _Standards body likely to approve SOFR as eligible_
+{{< quote 4682b4 >}}_Standards body likely to approve SOFR as eligible_{{< /quote >}}
 
 The US Financial Accounting Standards Board is set to vote on whether to designate the US dollar Libor replacement – the Secured Overnight Financing Rate (SOFR) – as eligible for hedge accounting, according to a source familiar with the matter.
 

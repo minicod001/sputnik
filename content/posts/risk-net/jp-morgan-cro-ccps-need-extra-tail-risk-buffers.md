@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: "Bail-in capital would help avoid contagion, says JPMorgan Chase's Ashley Bacon, in an interview with Risk.net"
 ---
 
-> _Bail-in capital would help avoid contagion, says JPMorgan Chase's Ashley Bacon, in an interview with Risk.net_
+{{< quote 4682b4 >}}_Bail-in capital would help avoid contagion, says JPMorgan Chase's Ashley Bacon, in an interview with Risk.net_{{< /quote >}}
 
 The chief risk officer of JPMorgan Chase has called for clearing houses to hold additional resources to cope with tail risks such as a gapping market or a catastrophic cyber event.
 

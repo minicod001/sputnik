@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'commodities', 'banks', 'operational risk']
 description: 'Stressed markets and remote working leave firms vulnerable to op risks and cyber attacks'
 ---
 
-> _Stressed markets and remote working leave firms vulnerable to op risks and cyber attacks_
+{{< quote 4682b4 >}}_Stressed markets and remote working leave firms vulnerable to op risks and cyber attacks_{{< /quote >}}
 
 House-sharing is common in major cities around the world. Trapped at home because of the coronavirus pandemic, housemates are jostling for space and privacy. For those in the financial industry, their home office set-up is not merely a source of domestic tension. It’s an operational risk for their employer.
 

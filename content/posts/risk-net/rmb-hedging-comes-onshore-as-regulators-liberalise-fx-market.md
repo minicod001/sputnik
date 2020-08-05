@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'investments', 'RMB', 'hedge', 'FX', 'onshore', 'offsho
 description: 'Foreign investors turn to CNY for bond hedges as rule changes spur more competition'
 ---
 
-> _Foreign investors turn to CNY for bond hedges as rule changes spur more competition_
+{{< quote 4682b4 >}}_Foreign investors turn to CNY for bond hedges as rule changes spur more competition_{{< /quote >}}
 
 Investors are increasingly hedging the foreign exchange exposures from their Chinese bond portfolios in the onshore market, following recent rule changes that have opened the market up to more competition.
 

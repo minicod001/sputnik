@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'investments', 'MIFID']
 description: 'Market participants say benefits of altering pre-trade transparency rules are small'
 ---
 
-> _Market participants say benefits of altering pre-trade transparency rules are small_
+{{< quote 4682b4 >}}_Market participants say benefits of altering pre-trade transparency rules are small_{{< /quote >}}
 
 Market participants fear Europe’s rules on how large dealers and venues disclose pre-trade quotes might not be worth salvaging as part of an [upcoming review](https://www.risk.net/regulation/7154086/why-europes-markets-might-need-mifid-iii) of regulation.
 

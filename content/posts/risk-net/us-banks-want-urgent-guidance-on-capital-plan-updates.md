@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'capital plan', 'CCAR', 'banks']
 description: 'Call for Fed to provide Covid scenarios by start of September, not in fourth quarter'
 ---
 
-> _Call for Fed to provide Covid scenarios by start of September, not in fourth quarter_
+{{< quote 4682b4 >}}_Call for Fed to provide Covid scenarios by start of September, not in fourth quarter_{{< /quote >}}
 
 US banks want guidance as quickly as possible on the method and timing for the resubmission of 2020 capital plans, with some urging regulators to kick off the process in early September. Bankers are hoping for further announcements imminently, citing the dangers of fresh complications if the start date is delayed into the fourth quarter.
 

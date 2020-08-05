@@ -6,8 +6,6 @@ tags: ['2020', '202007', 'derivatives', 'LIBOR']
 description: ''
 ---
 
-{{< quote 4682b4 >}}__{{< /quote >}}
-
 Detaching an estimated $350 trillion of financial contracts from Libor was always going to be an uphill struggle. For a rump of so-called “tough legacy” contracts it’s a near impossible task. Now their future lies in the hands of legislators.
 
 In a recent benchmark transition survey, six jurisdictions told the Financial Stability Board that legislation will be needed to shunt Libor’s most stubbornly welded contracts over to risk-free rates (RFRs). At least two – the US and, more recently, the UK – have already started work drafting suitable language. Another two warn the necessary fixes cannot be guaranteed.

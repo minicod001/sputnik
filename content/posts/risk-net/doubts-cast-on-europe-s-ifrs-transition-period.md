@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Dynamic transition viewed as too complicated for banks to use or investors to understand'
 ---
 
-> _Dynamic transition viewed as too complicated for banks to use or investors to understand_
+{{< quote 4682b4 >}}_Dynamic transition viewed as too complicated for banks to use or investors to understand_{{< /quote >}}
 
 Doubts have been raised over the usefulness of a transition period designed to mitigate the day one capital impact of new accounting rules, owing to the complexity of the European Union’s chosen approach.
 

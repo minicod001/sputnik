@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'stress test', 'FED',  'CCAR']
 description: 'Experts fear CCAR add-on has neither informed investors nor guided capital management'
 ---
 
-> _Experts fear CCAR add-on has neither informed investors nor guided capital management_
+{{< quote 4682b4 >}}_Experts fear CCAR add-on has neither informed investors nor guided capital management_{{< /quote >}}
 
 What’s the purpose of a bank stress test? That might sound like an overly philosophical question in the middle of a global pandemic, but it’s the question that market participants, together with former and some current regulators, have ended up asking after the results of this year’s Comprehensive Capital Analysis and Review (CCAR) were published in the US on June 25.
 

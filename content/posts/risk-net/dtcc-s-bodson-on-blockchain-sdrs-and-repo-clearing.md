@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Risk30: swap data reporting will move to a distributed ledger platform in early 2018'
 ---
 
-> _Risk30: swap data reporting will move to a distributed ledger platform in early 2018_
+{{< quote 4682b4 >}}_Risk30: swap data reporting will move to a distributed ledger platform in early 2018_{{< /quote >}}
 
 This is the eighth of 10 interviews marking Risk’s 30th anniversary. An introduction to the series – and links to the other articles – is available [here](https://www.risk.net/our-take/5353481/the-future-of-risk-in-10-interviews-volatility-liquidity-and-tech).
 

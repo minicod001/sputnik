@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Optimism over EU Council amendment, but Parliament will still have to approve'
 ---
 
-> _Optimism over EU Council amendment, but Parliament will still have to approve_
+{{< quote 4682b4 >}}_Optimism over EU Council amendment, but Parliament will still have to approve_{{< /quote >}}
 
 The Council of the European Union has raised hopes of securitisation special-purpose vehicles being exempt from posting margin on over-the-counter derivatives when new legislation is finalised next year.
 

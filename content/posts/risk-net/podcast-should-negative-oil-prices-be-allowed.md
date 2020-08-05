@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'podcast', 'commodities']
 description: 'Did negative oil prices signify the market was operating effectively, or that something was wrong?'
 ---
 
-> _Did negative oil prices signify the market was operating effectively, or that something was wrong?_
+{{< quote 4682b4 >}}_Did negative oil prices signify the market was operating effectively, or that something was wrong?_{{< /quote >}}
 
 The historic plunge of oil prices into negative territory is still a huge talking point in the oil market, even though a return to those levels any time soon looks unlikely. While some people saw the dive through zero on April 20 as a sign that the futures market was functioning as it should, others believe it called into question the reliability of the West Texas Intermediate (WTI) crude oil benchmark.
 

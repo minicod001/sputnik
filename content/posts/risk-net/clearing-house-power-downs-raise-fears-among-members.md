@@ -6,7 +6,7 @@ tags: ['2019', '201911', 'operational risk', 'CCP']
 description: 'Banks question CCP resilience to system outages, as debate swirls over non-default losses'
 ---
 
-> _Banks question CCP resilience to system outages, as debate swirls over non-default losses_
+{{< quote 4682b4 >}}_Banks question CCP resilience to system outages, as debate swirls over non-default losses_{{< /quote >}}
 
 The lights have never gone off at clearing houses such as LCH and Ice, but from time to time they flicker.
 

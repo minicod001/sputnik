@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'operational risk', 'ESMA']
 description: 'Regulator says firms must negotiate access rights to books and premises of providers'
 ---
 
-> _Regulator says firms must negotiate access rights to books and premises of providers_
+{{< quote 4682b4 >}}_Regulator says firms must negotiate access rights to books and premises of providers_{{< /quote >}}
 
 Clients of cloud service providers (CSPs) such as Amazon Web Services and Microsoft Azure will have to negotiate contract terms that allow them to supervise the providers’ performance and carry out detailed audits under regulatory guidelines currently out for consultation.
 

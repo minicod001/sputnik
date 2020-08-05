@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'New Esma guidance could still allow EU firms to trade Singapore stocks'
 ---
 
-> _New Esma guidance could still allow EU firms to trade Singapore stocks_
+{{< quote 4682b4 >}}_New Esma guidance could still allow EU firms to trade Singapore stocks_{{< /quote >}}
 
 Hong Kong, Australia and South Africa are on track to get European Union equivalence for share trading under the second Markets in Financial Instruments Directive ([Mifid II](https://www.risk.net/topics/mifid)) by the year-end, according to a senior official at the European Commission. However, the EC’s director of financial markets, Ugo Bassi, made no reference to Singapore, which some have interpreted as a sign the city-state might not be among the first wave of equivalence decisions.
 

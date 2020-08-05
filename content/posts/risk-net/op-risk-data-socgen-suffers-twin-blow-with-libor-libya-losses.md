@@ -6,7 +6,7 @@ tags: ['2018', '201807', 'risk management']
 description: 'French bank takes top two slots in monthly loss data roundup. Plus review of H1 losses'
 ---
 
-> _French bank takes top two slots in monthly loss data roundup. Plus review of H1 losses_
+{{< quote 4682b4 >}}_French bank takes top two slots in monthly loss data roundup. Plus review of H1 losses_{{< /quote >}}
 
 Societe Generale experienced the largest operational risk loss in June, bringing the total paid by firms in 2018 for Libor manipulation to $1.25 billion. SocGen reached settlements totalling [$750 million](https://www.cftc.gov/PressRoom/PressReleases/7736-18) with the US Department of Justice and the US Commodity Futures Trading Commission after admitting that senior executives had ordered its US dollar Libor submissions to be falsely deflated between May 2010 and October 2011 so that it could borrow money at a more favourable interest rate.
 

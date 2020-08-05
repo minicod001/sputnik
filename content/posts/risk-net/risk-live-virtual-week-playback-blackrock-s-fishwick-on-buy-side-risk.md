@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation']
 description: 'BlackRock’s co-head of risk discusses challenges facing firms today, including compliance and op risks'
 ---
 
-> _BlackRock’s co-head of risk discusses challenges facing firms today, including compliance and op risks_
+{{< quote 4682b4 >}}_BlackRock’s co-head of risk discusses challenges facing firms today, including compliance and op risks_{{< /quote >}}
 
 Ahead of the Risk Live in-person event, rescheduled for November, Risk.net is running a selection of key sessions online between June 30 and July 3.
 

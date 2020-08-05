@@ -6,7 +6,7 @@ tags: ['2017', '201712', 'risk management']
 description: 'Some states won’t have adopted directive before June, making rule-imposition difficult, say lawyers'
 ---
 
-> _Some states won’t have adopted directive before June, making rule-imposition difficult, say lawyers_
+{{< quote 4682b4 >}}_Some states won’t have adopted directive before June, making rule-imposition difficult, say lawyers_{{< /quote >}}
 
 With less than a month to go until the secondMarkets in Financial Instruments Directive comes into force, many of the European Union’s member states have not fully transposed the directives into national law and some – including Spain and Poland – will not have done so until well into 2018. That could make enforcement of the directive incredibly problematic for national competent authorities, say lawyers.
 

@@ -6,7 +6,7 @@ tags: ['2018', '201806', 'risk management']
 description: 'Banks dispute Fed paper showing accounting switch will lessen loan reserve procyclicality'
 ---
 
-> _Banks dispute Fed paper showing accounting switch will lessen loan reserve procyclicality_
+{{< quote 4682b4 >}}_Banks dispute Fed paper showing accounting switch will lessen loan reserve procyclicality_{{< /quote >}}
 
 US banks are taking issue with official sector research that concludes new accounting standards will likely reduce procyclicality in required loan-loss reserves.
 

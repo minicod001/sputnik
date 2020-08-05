@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Risk30: From loan losses to electromagnetic pulses, JPMorgan Chase has a place for it'
 ---
 
-> _Risk30: From loan losses to electromagnetic pulses, JPMorgan Chase has a place for it_
+{{< quote 4682b4 >}}_Risk30: From loan losses to electromagnetic pulses, JPMorgan Chase has a place for it_{{< /quote >}}
 
 This is the last of 10 interviews marking Risk’s 30th anniversary. Links to the rest of the series can be found [here](https://www.risk.net/our-take/5353481/the-future-of-risk-in-10-interviews-volatility-liquidity-and-tech).
 

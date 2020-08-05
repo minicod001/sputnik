@@ -1,7 +1,6 @@
 ---
 title: 'A new arbitrage-free parametric volatility surface'
-date: 2020-01-24
-JulyT12:00:00+02:00
+date: 2020-01-24T12:00:00+02:00
 categories: ['risk-net']
 tags: ['2020', '202001', 'derivatives', 'volatility surface', 'technical paper']
 description: 'A new arbitrage-free volatility surface with closed-form valuation and local volatility is introduced'

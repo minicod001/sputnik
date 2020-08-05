@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Expectations rise of forbearance after Council of the EU proposes buy side VM exemption'
 ---
 
-> _Expectations rise of forbearance after Council of the EU proposes buy side VM exemption_
+{{< quote 4682b4 >}}_Expectations rise of forbearance after Council of the EU proposes buy side VM exemption_{{< /quote >}}
 
 Proposals published by the Council of the EU earlier this week are fuelling expectations that buy-side firms will not have to post variation margin on certain foreign exchange forwards from next year – a controversial quirk of Europe’s rules. The proposals would limit margining to interdealer trades only.
 

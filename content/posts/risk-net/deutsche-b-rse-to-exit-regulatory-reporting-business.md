@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'Deutsche Boerse', 'reporting']
 description: 'Pricing war and cost pressures force service providers to reconsider regulatory reporting businesses'
 ---
 
-> _Pricing war and cost pressures force service providers to reconsider regulatory reporting businesses_
+{{< quote 4682b4 >}}_Pricing war and cost pressures force service providers to reconsider regulatory reporting businesses_{{< /quote >}}
 
 Deutsche Börse will offload its regulatory reporting businesses – Regulatory Reporting Hub, Approved Reporting Mechanism (ARM) and Approved Publication Arm (APA) – in the coming months.
 

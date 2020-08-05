@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Electronification of bond markets may require a regulatory response, Jay Clayton says'
 ---
 
-> _Electronification of bond markets may require a regulatory response, Jay Clayton says_
+{{< quote 4682b4 >}}_Electronification of bond markets may require a regulatory response, Jay Clayton says_{{< /quote >}}
 
 The US Securities and Exchange Commission is looking to formulate new rules to govern electronic trading in fixed-income markets.
 

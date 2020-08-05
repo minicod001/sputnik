@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation', 'losses', 'CCP']
 description: 'State-backed lender insists few clients have defected – but sharks circle, post-Parplus'
 ---
 
-> _State-backed lender insists few clients have defected – but sharks circle, post-Parplus_
+{{< quote 4682b4 >}}_State-backed lender insists few clients have defected – but sharks circle, post-Parplus_{{< /quote >}}
 
 When ABN Amro Clearing sustained a $200 million net loss from New York-based hedge fund Parplus Partners, it contacted its hundreds of clients to explain what had happened, and reassure them all was well.
 

@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'investments', 'buy side']
 description: 'Some users favour licence fee over per-trade charging – and have forced vendors to switch'
 ---
 
-> _Some users favour licence fee over per-trade charging – and have forced vendors to switch_
+{{< color 4682b4 >}}_Some users favour licence fee over per-trade charging – and have forced vendors to switch_{{< /color >}}
 
 Leading buy-side firms are calling time on the brokerage charging models used by some liquidity aggregators, joining dealers in a growing protest.
 

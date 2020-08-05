@@ -6,7 +6,7 @@ tags: ['2017', '201711', 'risk management']
 description: 'Proposal faced opposition from smaller broker-dealer members of US Treasuries CCP'
 ---
 
-> _Proposal faced opposition from smaller broker-dealer members of US Treasuries CCP_
+{{< quote 4682b4 >}}_Proposal faced opposition from smaller broker-dealer members of US Treasuries CCP_{{< /quote >}}
 
 A US regulator has given the green light for the Depository Trust & Clearing Corporation to implement a $74 billion liquidity facility for its US Treasury and repo clearing house.
 

@@ -6,7 +6,7 @@ tags: ['2020', '202007', 'regulation']
 description: 'Shift to remote working sees asset managers focus on comms, tech and cyber risks'
 ---
 
-> _Shift to remote working sees asset managers focus on comms, tech and cyber risks_
+{{< quote 4682b4 >}}_Shift to remote working sees asset managers focus on comms, tech and cyber risks_{{< /quote >}}
 
 In an ironic twist on the notion of futurism, it is conceivable that, for asset managers, the post-Covid landscape will look less like Fritz Lang’s Metropolis and more like Little House on the Prairie. Certainly, managers are preparing for an operating environment that will look dramatically different from the densely city-centric concentrations of the pre-Covid world – with a greater dispersion of capabilities and a higher proportion of staff working from home.
 

@@ -6,7 +6,7 @@ tags: ['2020', '202006', 'regulation', 'ESMA', 'hedge funds']
 description: 'Critics say proposed guidelines rely on patchy data and inconsistent calculations'
 ---
 
-> _Critics say proposed guidelines rely on patchy data and inconsistent calculations_
+{{< quote 4682b4 >}}_Critics say proposed guidelines rely on patchy data and inconsistent calculations_{{< /quote >}}
 
 On March 27, in the middle of the worst economic crisis in generations, Europe’s securities regulator published a proposal that, according to one hedge fund lobbyist, could upend the business models of scores of firms.
 
