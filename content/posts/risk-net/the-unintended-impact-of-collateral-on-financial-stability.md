@@ -36,7 +36,7 @@ In the second scenario, A does not post any IM. Instead, it pools its available 
 
 In the third scenario, all of A’s eligible assets are committed as IM to B1 [mAB1 = 4], which has a similar payment obligation to another firm, B2. A does not post IM to C1 in this scenario.
 
-FIG
+<img style="float:right; margin-left:5px; margin-right:5px; margin-top:20px; margin-bottom:20px; width:320px;" src="/img/unintendImpact.png"></img>
 
 In the first and third scenarios, A defaults as it does not have sufficient liquid assets to meet its payment obligations to B1 and C1. In these two scenarios, this spreads more defaults in the network. The collateralised counterparty seizes half of A’s IM to cover missed payments. The uncollateralised counterparty defaults. There are three defaults in the first scenario [D = {A, B1, B2}] and to two defaults in the third scenario, [D = {A, C1}].
 
