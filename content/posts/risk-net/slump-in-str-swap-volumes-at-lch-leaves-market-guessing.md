@@ -22,7 +22,7 @@ Prickett was speaking on a panel at Risk.net’s Libor Virtual Week in June.
 
 But that doesn’t explain why €STR overnight index swap volumes at Eurex have been going in the other direction. After a drop from €15.47 billion in January to €6.65 billion in February, the Frankfurt-based clearing house has seen volumes increase steadily to €32.75 billion in June.
 
-e3ba3991-12ba-4e3c-a901-2d7a838b52bd
+{{< embedded "e3ba3991-12ba-4e3c-a901-2d7a838b52bd" >}}
 
 Volumes are expected to jump this week. On July 27, central counterparties began [using €STR instead of Eonia to discount future cashflows](https://www.risk.net/derivatives/7527801/clearing-houses-postpone-euro-discounting-switch-to-july) and calculate interest payments on collateral – known as price alignment interest – for euro-denominated interest rate swaps.
 

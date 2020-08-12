@@ -3,6 +3,7 @@ title: 'Why investors are stuck with flawed VAR models'
 date: 2020-07-30T12:00:00+02:00
 categories: ['risk-net']
 tags: ['2020', '202007', 'risk management', 'survey', 'buy side', 'VAR']
+series: ['bookmarked']
 description: 'Buy-side risk survey: VAR wasn’t much use in March, but it is ingrained in the industry'
 ---
 

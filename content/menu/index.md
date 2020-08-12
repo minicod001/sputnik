@@ -9,4 +9,4 @@ bookMenuLevels: 1
 
 - [**Tags**]({{< relref "/tags" >}})
 
-- **Series**
+- [**Series**]({{< relref "/series" >}})

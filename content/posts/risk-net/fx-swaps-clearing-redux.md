@@ -4,6 +4,7 @@ date: 2020-07-27T12:00:00+02:00
 categories: ['risk-net']
 tags: ['2020', '202007', 'derivatives', 'CCR', 'FX swaps', 'clearing']
 description: 'SA-CCR could unleash the potential of clearing, and may ignite some big changes'
+series: ['bookmarked']
 ---
 
 {{< quote 4682b4 >}}_SA-CCR could unleash the potential of clearing, and may ignite some big changes_{{< /quote >}}

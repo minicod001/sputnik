@@ -19,6 +19,17 @@
 
 <blockquote id="styleBlue", style="color:black;">{{ .Inner | markdownify}}</blockquote>
 
+{{ else if eq "steelblue" $Color }}
+
+<style>#styleSteelBlue {
+	background-color:rgba(70, 130, 180, 0.1);
+	border:none;
+	padding: 10px;}
+</style>
+
+<blockquote id="styleSteelBlue", style="color:black;">{{ .Inner | markdownify}}</blockquote>
+
+
 {{ else if eq "green" $Color }}
 
 <style>#styleGreen {
