@@ -2,8 +2,9 @@
 title: 'Moonshots shelved: banks spend on home-working tech'
 date: 2020-08-11T12:00:00+02:00
 categories: ['risk-net']
-tags: ['2020', '202008', 'risk management', 'banks', 'Covid 19']
+tags: ['2020', '202008', 'risk management', 'banks', 'Covid 19', 'trading', 'dealer']
 description: 'Dealers made success of remote working switch – now they’re investing in its future, and pausing grander ambitions'
+series: ['bookmarked']
 ---
 
 {{< quote 4682b4 >}}_Dealers made success of remote working switch – now they’re investing in its future, and pausing grander ambitions_{{< /quote >}}
@@ -34,7 +35,7 @@ UBS is getting behind the solution: it led a $17.5 million funding round in Clou
 
 ### Moving to higher ground
 
-Other banks tell similar stories. The rapid deployment of new technologies has meant that traders working from home have, in some cases, been more productive than at the office. As commute time has been replaced by working time, productivity has been sustained – and, in some cases, even increased – and sickness rates have dropped. Dealers have handled a massive jump in trading volumes and second-quarter trading revenues are up double digits year-on-year.
+Other banks tell similar stories. {{< color steelblue >}}The rapid deployment of new technologies has meant that traders working from home have, in some cases, been more productive than at the office.{{< /color >}} As commute time has been replaced by working time, productivity has been sustained – and, in some cases, even increased – and sickness rates have dropped. Dealers have handled a massive jump in trading volumes and second-quarter trading revenues are up double digits year-on-year.
 
 The transition has met with such approval that many firms have talked of [downsizing their physical real estate](https://www.bloomberg.com/news/articles/2020-07-21/banks-eye-ditching-real-estate-with-workers-wanting-to-stay-home) as they prepare to have more of their staff working remotely on a continuing basis.
 
