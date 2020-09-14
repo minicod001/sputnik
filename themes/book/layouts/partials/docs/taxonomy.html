@@ -4,14 +4,30 @@
   {{ range $term, $_ := .Site.Taxonomies }}
   {{ with $.Site.GetPage (printf "/%s" $term) }}
     <li class="book-section-flat">
-      <strong>{{ .Title | title }}</strong>
-      <ul>
-      {{ range .Pages }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </li>
+
+      {{ if eq $term "datum"}}      
+        <strong>By Date</strong>
+          <br>
+          <br>
+          <div>
+          {{ range .Pages }}
+           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ end }}
+          </div>
+      
+      {{ else if eq $term "tags"}}
+
+      {{ else }}
+        <strong>{{ .Title | title }}</strong>      
+        <ul>
+        {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+        </ul>
+
       {{ end }}
-      </ul>
     </li>
   {{ end }}
   {{ end }}

@@ -65,6 +65,7 @@ enableGitInfo = false
   category = "categories"
   tag = "tags"
   series = "series"
+  datum = "datum"  
 
 
 
