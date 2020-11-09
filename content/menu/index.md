@@ -5,7 +5,7 @@ bookMenuLevels: 1
 
 - [**Categories**]({{< relref "/categories" >}})
   - [Risk]({{< relref "/posts/risk-net" >}})
-  - [Eurex]({{< relref "/posts/eurex" >}})
+  - [FX Magazine]({{< relref "/tags/fx" >}})
 
 - [**Tags**]({{< relref "/tags" >}})
 
