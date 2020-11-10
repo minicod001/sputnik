@@ -2,7 +2,7 @@
 title: 'The FX swaps client clearing comeback'
 date: 2020-09-01T12:00:00+02:00
 categories: ['risk-net']
-tags: ['derivatives']
+tags: ['derivatives', 'FX']
 datum: ['2020', '202009']
 description: 'Chatter about the service is picking up again, but significant hurdles remain'
 ---

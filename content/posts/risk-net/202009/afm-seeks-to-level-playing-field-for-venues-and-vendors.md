@@ -2,7 +2,7 @@
 title: 'AFM seeks to ‘level playing field’ for venues and vendors'
 date: 2020-09-10T12:00:00+02:00
 categories: ['risk-net']
-tags: ['regulation']
+tags: ['regulation', 'FX']
 datum: ['2020', '202009']
 description: 'Dutch regulator suggests some liquidity aggregators should be classified as OTFs'
 ---

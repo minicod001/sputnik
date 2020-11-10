@@ -2,7 +2,7 @@
 title: 'LCH to accept Sing dollar bonds as collateral'
 date: 2020-09-08T12:00:00+02:00
 categories: ['risk-net']
-tags: ['regulation']
+tags: ['regulation', 'FX']
 datum: ['2020', '202009']
 description: 'Singapore’s banks hope move will ease margin funding burdens, and speed direct membership'
 ---
